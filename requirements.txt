@@ -1,0 +1,11 @@
+python-docx
+streamlit
+pandas
+scikit-learn
+python-docx
+matplotlib
+wordcloud
+joblib
+numpy
+xgboost
+torch

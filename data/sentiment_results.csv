@@ -1,0 +1,1017 @@
+# POS,ID,PosScore,NegScore,SynsetTerms,Gloss
+a,166146,0.875,0,h?p_d?n#1,"thích nhìn, say mê v? ??p; ""qu?n áo h?p d?n""; ""mô t? quy?n sách v? hình minh h?a h?p d?n"""
+a,362467,0.75,0,vui_v?#1,"m?t tinh th?n t?t, th? hi?n tâm tr?ng r?t vui ; ""tính vui v? c?a cô ?y""; ""m?t l?i chào vui v?""; ""m?t c?n phòng vui v?"""
+a,15589,0.125,0.375,dài#9,"có ho?c ?ang ???c nhi?u h?n m?c bình th??ng ho?c c?n thi?t; ""cái qu?n dài"""
+a,15854,0,0.25,phong_phú#1,"có m?t s? l??ng l?n; ""tê giác ?ã t?ng phong phú ? ?ây"""
+a,16247,0.125,0.5,th?a_thãi#1,"có r?t nhi?u; ""n??c th?a tha?i"""
+a,16756,0,0.25,khan_hi?m#1,"thi?u s? l??ng so v?i yêu c?u; ""rau xanh khan hi?m trong th?i ?i?m h?n hán"""
+a,17782,0.625,0,ch?p_nh?n#1,"??ng ý nh?n (?i?u ng??i khác yêu c?u ho?c ?? ra) ; ""m?c b?c x? ch?p nh?n ???c"""
+a,21766,0.5,0,chính_xác#1,"phù h?p ho?c g?n ?úng v?i th?c t? ho?c m?t tiêu chu?n..; ""s? ?o chính xác""; ""m?t quy mô chính xác"""
+a,167278,0.5,0,d?_th??ng#1,"gây ???c tình c?m m?n th??ng ? ng??i khác ; ""m?t con bé d? th??ng"""
+a,35779,0.25,0.125,nhanh#3,"có t?c ??, nh?p ?? trên m?c bình th??ng; ""xe ch?y nhanh"""
+a,49016,0.5,0,hoàn_ch?nh#1,"có ??y ?? t?t c? các b? ph?n c?u thành c?n thi?t; ""m?t b? máy hoàn ch?nh"""
+a,50446,0.125,0.625,gi?n_l??c#1,"rút g?n ho?c gi?m b?t; ""trình bày m?t cách gi?n l??c"""
+a,61262,0.5,0,khéo_tay#1,"nhanh, gi?i ho?c chuyên nghi?p khi làm gì ?ó; ""cô ?y khéo tay may vá"""
+a,61664,0.625,0,nguyên_ch?t#4,"ch? thu?n m?t ch?t, không có ch?t khác l?n vào ho?c không có s? pha ch? ; ""vàng nguyên ch?t"""
+a,64479,0.625,0,thu?n_l?i#1,"?i?u ki?n t?t ?? làm gì ?ó; ""th?i ti?t thu?n l?i"""
+a,64787,0.625,0,có l?i#1,"có ph?m ch?t, ch?t l??ng cao h?n m?c bình th??ng; ""lúa t?t"""
+a,65064,0.75,0,tích_c?c#3,"có tác d?ng kh?ng ??nh, thúc ??y s? phát tri?n; ""cô ?y có suy ngh? tích c?c"""
+a,65488,0,0.75,b?t_l?i#1,"gây thi?t h?i; ""?ó là v?n ?? b?t l?i v?i chúng ta"""
+a,67038,0.625,0,khuy?n_khích#1,"x?ng ?áng ???c ?? ngh? ho?c ?? xu?t; ""nó ???c khuy?n khích làm vi?c ?ó"""
+a,67379,0.75,0,t?t_h?n#3 t?t nh?t#2,"khôn ngoan h?n ho?c có nhi?u thu?n l?i h?n; ""cái xe này t?t h?n xe kia"""
+a,70939,0.125,0.5,?nh_h??ng#1,"có tác ??ng ??n m?t ?i?u gì ?ó; ""tôi b? ?nh h??ng b?i ti?ng ?n"""
+a,71142,0.5,0,?n_t??ng#1,"ch?u tác ??ng ho?c ?nh h??ng rõ r?t; ""tôi ?n t??ng v?i cách tr? l?i c?a cô ?y"""
+a,75515,0,0.75,ph?_??nh#2,"bác b? s? t?n t?i, s? c?n thi?t c?a cái gì; ""câu ph? ??nh"""
+a,75389,0.5,0,??ng_ý#1,"cùng quan ?i?m ho?c suy ngh? v?i ai ?ó; ""anh ?y ??ng ý v?i tôi"""
+a,77645,0,0.5,s?#1,"lo l?ng v? cái gì ?ó; ""cô ?y r?t s? ma"""
+a,78851,0,0.625,báo_??ng#1,"c?m giác b?t ng? v? m?t s? nguy hi?m nào ?ó; ""ti?ng chuông báo ??ng"""
+a,101609,0.75,0,v?_tha#1,"s?n lòng b? qua l?i l?m c?a ng??i khác; ""cô ?y s?ng r?t v? tha"""
+a,102201,0.125,0,m?_h?#2,"không xác ??nh ???c v?n ??; ""tôi v?n còn m? h? v? v?n ?? ?ó"""
+a,106182,0.25,0,hào_phóng#3,"r?ng rãi trong chi tiêu, trong quan h? ??i x? v?i m?i ng??i; ""h?n r?t hào phóng v?i chúng tôi"""
+a,107017,0.125,0.625,ch?t_h?p#1,"có ph?m vi h?p,nh?; ""con ngõ ch?t h?p"""
+a,1173697,0,0.875,t?c_gi?n#3,"c?m giác khó ch?u v?i ng??i nào ?ó; ""cô ta r?t t?c gi?n v?i tôi"""
+a,560586,0.75,0,thích_h?p#1,"h?p v?i yêu c?u và ?áp ?ng t?t các ?òi h?i; ""các ?i?u ki?n thích h?p"""
+a,118567,0.375,0,náo_nhi?t#1,"nh?n nh?p, sôi n?i trong ho?t ??ng; ""???ng ph? ?n ào, náo nhi?t"""
+a,664879,0.5,0,ng?c_nhiên#1,"l?y làm l?, c?m th?y hoàn toàn b?t ng? v?i mình; ""ai c?ng ng?c nhiên tr??c kh? n?ng c?a anh ta"""
+a,133417,0.5,0.125,ngon_lành#1,"gây ???c c?m giác thích thú, làm cho ?n ho?c u?ng không th?y chán ho?c làm vi?c gì ?ó d? dàng, nhanh chóng,không g?p b?t c? khó kh?n nào; ""bài toán này gi?i ngon lành"""
+a,149686,0.125,0.5,láu_cá#1,"láu và có nhi?u m?o v?t; ""th?ng bé r?t láu cá"""
+a,148642,0.625,0,quý_báu#4,"có giá tr?, ?áng ???c coi tr?ng; ""l?i khuyên quý báu"""
+a,149120,0.625,0,sâu_s?c#15,"có tính ch?t ?i vào chi?u sâu, vào nh?ng v?n ?? thu?c b?n ch?t, có ý ngh?a nh?t; ""m?t tri?t lí sâu s?c"""
+a,149861,0.5,0.125,t?_nhiên#2,"bình th??ng nh? v?n có c?a b?n thân, không có gì là gò bó, gi? t?o; ""?n u?ng t? nhiên"""
+a,150055,0.25,0.5,b?t_c?n#2,"vô ý, không c?n th?n; ""canh phòng b?t c?n"""
+a,150202,0.5,0.125,rõ_ràng#1,"rõ ??n m?c ai c?ng có th? th?y, có th? nh?n bi?t ???c m?t cách d? dàng; ""b?ng ch?ng rõ ràng"""
+a,162863,0.375,0.5,nhút_nhát#1,"r?t rè, e ng?i; ""cô bé m?i ??n r?t nhút nhát"""
+a,163315,0.125,0.5,kh?_d?i#2,"kém trí khôn, tinh ranh; ""cô ta hãy còn kh? d?i l?m"""
+a,164681,0.125,0.5,lo_l?ng#2,"? trong tr?ng thái r?t không yên lòng; ""v? m?t lo l?ng"""
+a,168039,0,0.375,phô_tr??ng#4,"ch?ng ra, bày ra cho ng??i ta th?y, ?? l?y ti?ng, l?y oai; ""phô tr??ng l?c l??ng"""
+a,169692,0.125,0.25,xám_x?t#1,"xám và ?en l?i, trông t?i và x?u; ""da d? xám x?t"""
+a,176150,0.625,0,th?nh_v??ng#1,"tr?ng thái phát ??t, ?ang giàu lên; ""làm ?n th?nh v??ng"""
+a,182718,0.5,0,thông_minh#7,"có n?ng l?c trí tu? t?t, hi?u nhanh, ti?p thu nhanh; ""c?u bé thông minh"""
+a,193480,0,0.625,x?u#4,"có hình th?c, v? ngoài khó coi, gây c?m giác khó ch?u, làm cho không mu?n nhìn ng?m; ""ch? x?u"""
+a,193799,0,0.625,kh?ng_khi?p#1,"ho?ng s? ho?c làm cho ho?ng s? ? m?c r?t cao; ""tai h?a kh?ng khi?p"""
+a,194357,0,0.75,?e_d?a#1,"làm ai ??y s? s?t; ""h?n ?e d?a tôi"""
+a,196934,0.5,0,yên_lòng#1,"có tr?ng thái tâm lí yên ?n, không có ?i?u gì ph?i lo l?ng; ""yên lòng nh?m m?t"""
+a,197247,0.5,0,qu?_quy?t#1,"t? ra có ?? quy?t tâm, không h? do d?; ""thái ?? qu? quy?t"""
+a,220082,0.875,0,xinh_??p#1,"r?t xinh, có ???c s? hài hòa, trông thích nhìn; ""nh?ng cô nàng xinh ??p"""
+a,219705,0.75,0,r?c_r?#1,"có màu s?c t??i sáng ??p ?? và n?i b?t h?n lên, làm cho ai c?ng ph?i chú ý; ""n?ng vàng r?c rõ"""
+a,1211296,0.5,0,ti?n_b?#4,"phát tri?n theo h??ng ?i lên, t?t h?n tr??c; ""h?c hành ti?n b?"""
+a,224166,0,0.75,hi?m_ác#1,"ch? ng??i ??c ác, có hành ??ng x?u; ""ông ta là con ng??i hi?m ác"""
+a,226891,0.5,0,t?t_b?ng#2,"có lòng t?t,th??ng ng??i, s?n sàng giúp ?? ng??i khác; ""?ó là m?t cô gái t?t b?ng"""
+a,229630,0.25,0.75,t? nh?t#1,"cái gì ?ó hình th?c r?t x?u ho?c ch?t l??ng r?t kém; ""??y là món ?n t? nh?t mà tôi t?ng ?n"""
+a,264776,0,0.5,hèn_nhát#1,"kém b?n l?nh, th??ng do nhút nhát s? s?t; ""m?t k? hèn nhát"""
+a,272172,0,0.25,tái_mét#2,"tái ??n m?c nh?t nh?t nh? không còn chút máu (th??ng nói v? s?c m?t); ""khuôn m?t tái mét"""
+a,273901,0.125,0.5,t?i_t?m#1,"t?i, thi?u ánh sáng; ""nhà c?a t?i t?m"""
+a,281342,0.25,0,h?ng_hái#3,"có lòng nhi?t tình và thái ?? tích c?c trong công vi?c; ""cô ?y r?t h?ng hái làm vi?c"""
+a,291181,0,0.375,v?ng_ch?c#5,"có kh? n?ng ch?u tác ??ng m?nh t? bên ngoài mà v?n gi? nguyên ???c tr?ng thái, tính ch?t, không b? phá hu?; ""b?c t??ng ???c xây d?ng v?ng ch?c"""
+a,295235,0.5,0.125,nhàn_r?i#1,"r?i rãi, không ph?i làm vi?c gì; ""anh ta có nhi?u th?i gian nhàn r?i"""
+a,302761,0.375,0,bình_t?nh#2,"không b?i r?i, mà làm ch? ???c tình c?m, hành ??ng c?a mình; ""b?n không nên m?t bình t?nh nh? th?"""
+a,303480,0.5,0.125,?n_??nh#4,"? tr?ng thái yên ?n, không còn có nh?ng bi?n ??ng, thay ??i ?áng k?; ""giá c? ?n ??nh"""
+a,305590,0,0.75,b?n_th?u#12,"có nhi?u b?i b?m, rác r??i, cáu ghét ho?c b? hoen ?; ""cái gi? b?n th?u"""
+a,251373,0,0.5,b?c_d?c#2,"b?c t?c ??n m?c không ch?u ???c, l? rõ ? nét m?t, c? ch?; ""cô ta t? v? b?c d?c"""
+a,283703,0,0.5,t?i_d?#2,"ch?m hi?u, kém v? kh? n?ng ti?p thu ki?n th?c; ""con bé có v? t?i d?"""
+a,290784,0.125,0.125,l??ng_l?#2,"còn ?ang suy tính xem nên hay không nên, ch?a bi?t quy?t ??nh nh? th? nào cho ?úng; ""cô ?y hãy còn l??ng l?"""
+a,309021,0.5,0,c?n_th?n#1,"th?n tr?ng trong hành ??ng ho?c l?i nói c?a mình, tránh s? su?t, ?? kh?i x?y ra ?i?u b?t l?i ho?c không hay; ""c?n th?n không ngã"""
+a,343552,0.5,0,c?n_thi?t#2,"c?n ??n m?c không th? nào không làm ho?c không có; ""tài li?u c?n thi?t cho công vi?c"""
+a,360650,0.625,0.125,trong_sáng#1,"trong và không l?n t?p ch?t ho?c có ph?m ch?t ??o ??c t?t ??p, không b? m?t v?t nh? b?n nào; ""cán b? c?n ph?i s?ng trong s?ch"""
+a,386392,0.25,0.25,trung_l?p#5 không s?c#1,"??ng ? gi?a hai bên ??i l?p, không theo ho?c không ph? thu?c vào bên nào; ""n??c trung l?p"""
+a,403385,0.75,0.125,giàu#5,"có nhi?u h?n m?c bình th??ng; ""th?c ?n giàu ch?t ??m"""
+a,421513,0,0.25,??c#1,"có nhi?u g?n nh? v?n lên làm cho m?, không trong; ""n??c ??c"""
+a,428404,0.5,0,sáng_s?a#1,"rõ ràng, rành m?ch, d? hi?u; ""trình bày sáng s?a"""
+a,438567,0,0.75,hà_kh?c#1,"khe kh?t, ác nghi?t; ""chính sách cai tr? hà kh?c"""
+a,439588,0,0.75,ngu_d?t#1,"ngu và d?t nát, không hi?u cái gì; ""h?n không ph?i là m?t tên ngu d?t"""
+a,441523,0.125,0.375,y?u#12,"có s?c l?c kém d??i m?c bình th??ng ho?c có m?c ??, n?ng l?c ho?c tác d?ng ít, kém so v?i bình th??ng; ""c?n bão y?u d?n"""
+a,452605,0.625,0.125,bí_m?t#3,"???c gi? kín trong ph?m vi m?t s? ít ng??i, không ?? l? cho ng??i ngoài bi?t; ""h?m bí m?t"""
+a,558373,0,0.75,h?n_ch?#2,"gi? l?i, ng?n l?i trong m?t gi?i h?n nh?t ??nh, không th? ho?c không ?? cho v??t qua; ""t?m nhìn còn h?n ch?"""
+a,2098,0,0.75,không_th?#1,"không có, không ?? kh? n?ng ho?c ?i?u ki?n làm vi?c gì, ??i l?p v?i có th?; ""không th? nh?n ???c ti?n"""
+a,5205,0.5,0,tuy?t_??i#1,"hoàn toàn, không có m?t s? h?n ch? hay m?t tr??ng h?p ngo?i l? nào c?; ""tuy?t ??i trung thành"", ""tuy?t ??i im l?ng"", ""chân lý tuy?t ??i"""
+a,15720,0.125,0.5,lan_tràn#2 th?ng_d?#1,quá nhi?u
+a,16647,0.5,0.125,xanh_t??i#1,"t??i t?t, ??y s?c s?ng c?a cây"
+a,17024,0,0.875,hi?m#3,"r?t ít có, r?t ít x?y ra; ""hi?m các lo?i th?o m?c"", ""hi?m b?n vá l?i c?a màu xanh lá cây trong sa m?c"""
+a,17186,0.125,0.5,ch?t_ch?#6,"không ?? r?i kh?i s? theo dõi, không buông l?ng; ""m?t th? tr??ng ch?t ch?"""
+a,17352,0,0.625,ng??c_?ãi#1,"??i x? tàn t?, ng??c v?i ??o lí; ""m?t ng??i v? b? l?m d?ng"""
+a,17782,0.625,0,ch?p_nh?n_???c#1,"x?ng ?áng v?i s? ch?p nh?n ho?c th?a ?áng; ""m?c ch?p nh?n ???c c?a b?c x?"", ""bi?u di?n ?a d?ng t? ch?p nh?n tuy?t v?i"""
+a,24834,0,0.75,không quen_thu?c#1,"l? v?i l?n ??u, không quen v?i; ""không quen thu?c ?? m?c b? qu?n áo"""
+a,31974,0.5,0.125,ho?t_??ng#5,"??c tr?ng b?i các ho?t ??ng n?ng ??ng; ""m?t em bé ?ang ho?t ??ng"", ""ho?t ??ng nh? m?t con linh d??ng"", ""m?t ng??i ?àn ông ho?t ??ng là m?t ng??i ?àn ông c?a hành ??ng"""
+a,33077,0.5,0,nóng#21,"?ánh d?u b?ng ho?t ??ng kích thích trong m?t th?i gian ng?n, ""m?t tu?n nóng trên th? tr??ng ch?ng khoán"""
+a,35868,0.5,0,nh?n_nh?p#1,"không khí ?ông vui, t?p n?p, do có nhi?u ng??i qua l?i ho?c cùng tham gia ho?t ??ng , ""m?t thành ph? nh?n nh?p"""
+a,36998,0,0.5,ch?m_ch?p#2,"có t?c ??, nh?p ?? d??i m?c bình th??ng; ""m?t th? tr??ng ch?m ch?p"""
+a,1841295,0,0.75,ch?m#1,"không ph?i là ??n nay cùng nh? bình th??ng trong phát tri?n; ""kinh t? phát tri?n ch?m"""
+a,42837,0,0.5,vô_hi?u#1,"không có hi?u l?c, không mang l?i k?t qu?; ""lu?t này ?ã vô hi?u t? tháng 4"""
+a,44608,0,0.625,?n#1,"khó phát hi?n; ""m?t tr?i ?n trong ?ám mây"""
+a,61885,0.625,0,khéo_léo#1,"hi?n th? sáng t?o và k? n?ng; ""m?t ti?n ích thông minh"", ""các cu?c di?n t?p x?o quy?t d?n ??n thành công c?a ông"", ""m?t gi?i pháp tài tình ?? v?n ??"""
+a,63087,0.5,0,nhanh_nh?y#1,"tinh th?n nhanh nh?n và tháo vát; ""??u óc nhanh nh?y"""
+a,69948,0.625,0,ngh?_thu?t#2,"?áp ?ng các tiêu chu?n th?m m? và s? nh?y c?m; ""ngh? thu?t tay ngh?"""
+a,71142,0.5,0,gây ?n_t??ng sâu_s?c#1,ho?c b? ?nh h??ng ho?c ch?u ?nh h??ng rõ r?t
+a,73761,0.125,0.625,c?ng_th?ng#3,"thi?u t? phát, không t? nhiên, ""m?t n? c??i h?n ch?"", ""bu?c s?? ân c?n"", ""m?t n? c??i c?ng th?ng"""
+a,76580,0,0.875,thô_b?o#2,"có nh?ng hành vi, c? ch? xúc ph?m ??n ng??i khác m?t cách tr?ng tr?n; ""h? ?ã hành ??ng thô b?o sau khi vi ph?m th? ba"""
+a,79069,0.125,0.625,e_ng?i#3,"trong s? hãi ho?c s? hãi c?a cái ác có th? ho?c gây t?n h?i; ""e ng?i cho cu?c s?ng c?a m?t ng??i"", ""e s? nguy hi?m"""
+a,81234,0,0.625,m?t bình_t?nh#1,"không gi? ???c tâm tr?ng ?n ??nh; ""anh ?y b? m?t bình t?nh"""
+a,84795,0,0.5,hung_d?#1,"s?n sàng gây tai ho? m?t cách ?áng s? ; ""m?t bài phát bi?u hung d? ch?ng l?i chính ph? m?i"""
+a,85264,0,0.5,kích_??ng#1,"tác ??ng m?nh ??n tinh th?n gây ra nh?ng xúc ??ng mãnh li?t ; ""kích ??ng cha m?"""
+a,89051,0.5,0,d?_ch?u#1,"phù h?p v?i ý thích riêng ho?c c?m xúc c?a b?n ho?c thiên nhiên;"" m?t cách d? ch?u """
+a,89355,0.125,0.875,khó_ch?u#1,"không ph?i theo ý thích c?a b?n, ""m?t tình hu?ng khó ch?u"""
+a,90219,0.333,0.667,kh?c_nghi?t#6,"m?nh khó ch?u, nghiêm ng?t; ""các s? ki?n kh?c nghi?t c?a s? ch?m tr? tòa án"""
+a,94941,0.5,0,h?u_hi?u#2,"có kh? n?ng s?ng ho?c t?ng tr??ng bình th??ng và phát tri?n; "" v? thu?c h?u hi?u"""
+a,95280,0,0.75,ch?t#1,"m?t kh? n?ng s?ng, không còn có bi?u hi?n c?a s? s?ng ; ""cây ?ã ch?t"", ""con s? ch?t"""
+a,99290,0.5,0,s?ng#2,"? tr?ng thái còn s?ng, ch?a ch?t; ""cây v?n còn s?ng"""
+a,100373,0,0.75,vô_h?n#4,"? tr?ng thái ?? ??n , m?t h?t s?  s?ng, ""m?t ánh m?t vô h?n"""
+a,94324,0.125,0.5,không_th? ??i#1 không_th? chuy?n_nh??ng#1,"không có kh? n?ng ???c chuy?n giao;""v? trí này không th? ??i cho ng??i khác ???c"""
+a,82160,0.625,0.25,không h?t_ho?ng#1,"không b? ?nh h??ng b?i s? hãi; ""anh ?y không h?t h??ng tr??c s? c? ?ó"""
+a,80098,0,0.75,k?#2,"không h?p nhau, không th? cùng t?n t?i ; ""Hai lo?i th?c ?n này k? nhau"""
+a,284400,0.125,0.5,d?u#4 m?m#19,"không xu?t s?c ho?c rõ ràng; ""m?t tr?ng ?? bóng m?m"", ""màu pastel m?m"""
+a,285506,0.25,0.625,ghen#2,"khó ch?u, b?c d?c v?i ng??i ???c h??ng cái gì ?ó (th??ng là v? tinh th?n, tình c?m) h?n mình, có ???c cái mình mu?n mà không có ; ""nhìn v?i ánh m?t ghen """
+a,286214,0.5,0,khách_quan#1,"có tính ch?t xu?t phát t? th?c t?, bi?u hi?n th?c t? m?t cách trung th?c, không thiên l?ch;  ""m?t th?m ??nh khách quan v? nh?ng ?u và khuy?t ?i?m"", ""con m?t khách quan c?a m?t nhà khoa h?c"""
+a,286214,0.5,0,vô_t?#2,"có tính ch?t xu?t phát t? th?c t?, bi?u hi?n th?c t? m?t cách trung th?c, không thiên l?ch;  ""m?t con ng??i vô t?"""
+a,299476,0,0.625,h?n_t?p#4,"không thu?n nh?t, g?m có nhi?u th? r?t khác nhau l?n l?n vào v?i nhau; ""?ám ?ông h?n t?p có ?? h?ng ng??i"""
+a,300359,0,0.5,?inh tai nh?c_óc#4,"có c?m giác thính giác b? r?i lo?n, do tác ??ng c?a âm thanh có c??ng ?? quá m?nh; ""ti?ng búa ?inh tai nh?c óc"""
+a,300359,0,0.5,?inh_tai#4,"có c?m giác thính giác b? r?i lo?n, do tác ??ng c?a âm thanh có c??ng ?? quá m?nh; ""ti?ng búa ?inh tai nh?c óc"""
+a,300359,0,0.5,nh?c_óc#4,"có c?m giác thính giác b? r?i lo?n, do tác ??ng c?a âm thanh có c??ng ?? quá m?nh; ""ti?ng búa ?inh tai nh?c óc"""
+a,301187,0.5,0,tính ???c#1,"có kh? n?ng ???c tính toán ho?c ??c tính; ""m?t r?i ro tính ???c"", ""tính ???c t? l? c??c"""
+a,301777,0.125,0.625,khôn_l??ng#1,"khó có kh? n?ng ???c tính toán ho?c li?t kê, bi?t tr??c ???c ; ""bi?n hóa khôn l??ng"""
+a,304144,0.375,0.5,hoang_dã#13,"có tính ch?t t? nhiên c?a núi r?ng, xa ??i s?ng c?a xã h?i loài ng??i ; ""??ng v?t hoang dã"""
+a,305590,0,0.75,d?#12,"b?n ;""chi?c áo b? d?"""
+a,310943,0.5,0,quá c?n_th?n#1,"quá nhi?u ho?c quá m?c c?n th?n ; ""anh ta quá c?n th?n"""
+a,312757,0.125,0.75,li?u_l?nh#2,"b?t ch?p nguy hi?m ho?c h?u qu? tai h?i có th? x?y ra; ""hành ??ng li?u l?nh"""
+a,325281,0.75,0,th?n_tr?ng#1,"hi?n th? c?n th?n suy tính tr??c; ""anh ta r?t th?n tr?ng trong công vi?c"""
+a,328528,0.5,0,m?ch_l?c#3,"di?n ??t trôi tr?y, m?ch l?c , t?ng ?o?n m?t ;""?n nói m?ch l?c"""
+a,339599,0.625,0,yên_tâm#1,"có ni?m tin ph?c h?i, gi?i thoát kh?i s? lo l?ng, ""anh c? yên tâm mà ngh? ng?i"""
+a,342488,0.5,0,???c ch?ng_nh?n#2,"có kh? n?ng ???c b?o lãnh, xác nh?n, ""m?t th?c t? ???c ch?ng nh?n"""
+a,344686,0.625,0,?i?u_ch?nh#2,"s?a ??i, s?p x?p l?i ít nhi?u cho ?úng h?n, h?p lí h?n ; ""lãi su?t ?i?u ch?nh"""
+a,355258,0,0.625,không thay_??i#1,"không th?c hi?n ho?c tr? thành khác nhau; ""nh?ng nguyên nhân mà h? ?ã s?n xu?t v?n không thay ??i"""
+a,363291,0.625,0,uy?n_chuy?n#2,"có dáng ?i?u, ???ng nét m?m m?i, gây c?m giác d?u dàng, ?a thích ; ""dáng ?i uy?n chuy?n"""
+a,364881,0,0.625,xin_l?i#4,"xin ???c tha th? vì có l?i ; ""anh ?y ng? l?i xin l?i"""
+a,404110,0.625,0.25,sôi_??ng#3,"? tr?ng thái có nhi?u bi?n ??ng không ng?ng ; ""nh?p s?ng sôi ??ng"""
+a,408445,0.125,0.5,xanh_xao#3 nh?t#3,"thi?u s?c s?ng ho?c lãi su?t và hi?u qu?; ""m?t màn bi?u di?n nh?t c?a aria"", ""nh?t v?n xuôi v?i các v? ng?t nh?t c?a hoa o?i h??ng"", ""m?t hi?u su?t xanh xao"""
+a,412460,0.625,0,nhân_??o#3,"có tính ch?t th??ng yêu, quý tr?ng và vì con ng??i; ""hi?n máu nhân ??o"""
+a,417204,0,0.75,nguyên#7,"hông ???c x? lý ho?c b? phân tích; ""d? li?u thô"", ""chi phí nguyên li?u s?n xu?t"", ""ch? có s? li?u th?ng kê quan tr?ng thô"""
+a,417413,0.5,0,s?ch#1,"không có b?i b?m, rác r??i, cáu ghét, ho?c không b? hoen ? ; ""Các con có khuôn m?t sáng s?ch"", ""s?ch áo s? mi tr?ng"", "" mèo là ??ng v?t s?ch """
+a,418679,0.5,0.125,nguyên_s?#2,"thu?c v? lúc ban ??u, lúc m?i hình thành, ch?a phát tri?n ; ""trao kh?n tay màu tr?ng nguyên s? c?a mình"""
+a,419289,0,0.75,d?_b?n#1,"b?n th?u, x?u xa ??n m?c ?áng ghê t?m ; ""b? m?t x?u xa , d? b?n"""
+a,421002,0,0.75,thô_t?c#2,"thi?u l?ch s?, thi?u t? nh? ??n m?c t?c t?n ; ""cách ?n u?ng thô t?c"""
+a,422374,0,0.625,t?_h?i#2,"quá t? và có tác d?ng gây nh?ng t?n th?t l?n; ""m?t hành ??ng t? h?i"""
+a,422374,0,0.625,t?#2,"quá t? và có tác d?ng gây nh?ng t?n th?t l?n; ""m?t hành ??ng t? h?i"""
+a,429016,0.5,0,s?c_bén#3,"có hi?u l?c, có tác d?ng t? t??ng m?nh m? ; ""l?p lu?n s?c bén"""
+a,429355,0.5,0,d?_hi?u#1,"không ?òi h?i ph?i có nhi?u ?i?u ki?n ho?c ph?i c? g?ng nhi?u m?i có ???c, làm ???c hay m?i ??t ???c k?t qu?; ""bài gi?ng d? hi?u"""
+a,430041,0.5,0.125,s?ng_??ng#2,"sinh ??ng, có nh?ng bi?u hi?n m?nh m? c?a s? s?ng ; ""tranh v? r?t s?ng ??ng"""
+a,434597,0.25,0.5,r?n#10,"có kh? n?ng ch?u ??ng ???c nh?ng tác ??ng b?t l?i v? tâm lí mà tinh th?n, tình c?m không b? ?nh h??ng ; ""m?t r?n ?anh"""
+a,435492,0,0.75,nh?m_l?n#5,"tinh th?n l?n l?n, không th? suy ngh? rõ ràng ; ""câu tr? l?i nh?m l?n"""
+a,437744,0.5,0.125,hi?n#3,"không d?, không có nh?ng hành ??ng, nh?ng tác ??ng gây h?i cho ng??i khác, gây c?m giác d? ch?u, không ph?i ng?i, ph?i s? khi ti?p xúc; ""tính ch? ?y r?t hi?n"""
+a,438063,0,0.625,quá_m?c#2,"không tha, tàn nh?n; ""m?t nhà phê bình quá m?c"""
+a,438567,0,0.75,x?u_s?#1,"có s? ph?n không may; ""??a tr? x?u s?"""
+a,439588,0,0.75,ngu_si#1,"r?t ngu, h?u nh? ch?ng bi?t gì; ""??u óc ngu si"""
+a,453308,0.75,0,thân_m?t#1,"?ánh d?u b?i ng??i quen thân, hi?p h?i, ho?c ?ã làm quen, ""ng??i b?n thân thi?t"", ""thân m?t quan h? gi?a kinh t?, chính tr?, và các nguyên t?c pháp lý"""
+a,469170,0,0.5,phân_tách#3,"phân ra, tách nhau ra thành nh?ng ??n v? riêng r?; ""quá trình phân tách"""
+a,473658,0,0.5,d?_cháy#1,"d? dàng b?t l?a; ""d?u d? cháy"""
+a,473869,0,0.625,gây cháy#3,"có kh? n?ng b?t cháy t? phát ho?c gây ho? ho?n, cháy d? dàng, ""m?t tác nhân gây cháy"", ""qu? bom gây cháy"""
+a,478685,0,0.625,?au_??n#4,"gây khó ch?u v? th? ch?t; "" b? r?n c?n ,nó có th? r?t ?au ??n"""
+a,479330,0.625,0,tho?i_mái#2,"? tr?ng thái hoàn toàn d? ch?u, ???c ho?t ??ng t? nhiên theo ý mu?n, không b? gò bó, h?n ch?; ""tinh th?n tho?i mái, vui v?"""
+a,481855,0,0.625,không x?ng#1,"không t??ng ?ng v?i kích th??c ho?c ?? hay m?c ??, ""k?t qu? không x?ng v?i n? l?c c?a mình"""
+a,487653,0.5,0.25,th??ng#1,"không có gì khác l?, không có gì ??c bi?t so v?i s? l?n nh?ng cái cùng lo?i ; ""ngày t?t c?ng  nh? ngày th??ng"""
+a,491089,0.625,0,??c_bi?t#3,"rõ r?t khác v?i thông th??ng, ""m?t s? thích ??c bi?t c?a nh?i và l?p d?i"", ""m?t ng??i ?àn ông ... c?m th?y ?ó là m?t s? xúc ph?m ??c bi?t ???c ch? gi?u v?i hèn nhát c?a m?t ng??i ph? n?"""
+a,491511,0.5,0,??c_?áo#4,"có tính ch?t riêng c?a mình, không ph?ng theo nh?ng gì ?ã có x?a nay, không gi?ng, không l?n v?i nh?ng gì có ? ng??i khác; ""m?t ý t??ng ??c ?áo"""
+a,503876,0,0.5,b?#1,"d? t?i ra, v?n ra khi ch?u tác ??ng c?a l?c c? h?c ; ""??t b? tung"""
+a,507292,0.25,0.625,lãnh_??m#1,"không có bi?u hi?n tình c?m, t? ra không mu?n quan tâm ??n ; ""thái ?? lãnh ??m"""
+a,507464,0.5,0,t??ng_thích#1,"có th? t?n t?i và th?c hi?n k?t h?p hài hòa ho?c d? ch?u; ""m?t c?p v? ch?ng t??ng thích k?t hôn"", ""nh?ng hành ??ng c?a cô ?ã t??ng thích v?i h? t? t??ng c?a mình"""
+a,508480,0.25,0.5,??i_kháng#5,"??i l?p sâu s?c, m?t m?t m?t còn, không th? dung hoà ???c v?i nhau; ""mâu thu?n ??i kháng"""
+a,508592,0.125,0.625,xung_??t#1,"va ch?m, ch?ng ??i nhau do mâu thu?n gay g?t ; ""xung ??t l?i ích c?a khai thác g? và các nhà b?o t?n"""
+a,512130,0.75,0,có th?m_quy?n#3,"h?p pháp ?? ?i?u ki?n ho?c ??; ""m?t tòa án có th?m quy?n"", ""có th?m quy?n ch?ng"""
+a,513799,0,0.75,phàn_nàn#1,"nói ra n?i bu?n b?c, không v?a ý ?? mong có s? ??ng c?m, ??ng tình ; ""m?t ông ch? phàn nàn"""
+a,514396,0.5,0,nén#1,"có kh? n?ng b? nén, làm nh? g?n h?n, ""v?t li?u ?óng gói nén"", ""m?t h?p nén"""
+a,523068,0.75,0,toàn_di?n#2,"có ho?c hi?n th? t?t c? các ??c tính c?n thi?t cho ??y ??, ""m?t cu?c kh?ng ho?ng  tài chính toàn di?n """
+a,522463,0.875,0,tri?t_??#1,"th?c hi?n toàn di?n và hoàn toàn; ""m?t cu?c cách m?ng toàn di?n"""
+a,531087,0.625,0,th?n_nhiên#1,"có dáng v? t? nhiên nh? th??ng, coi nh? không có gì x?y ra ; ""nét m?t nó th?n nhiên"""
+a,534524,0.125,0.5,khó_hi?u#1,"không rõ ràng ?? hi?u bi?t ; ""bài toán th?t khó hi?u"""
+a,539389,0,0.625,??n_??c#3,"ch? riêng m?t mình, tách kh?i quan h? v?i ??ng lo?i ; ""s?ng ??n ??c m?t mình"""
+a,541823,0,0.5,m?t_?? th?p#2,"có n?ng ?? th?p; ""m?t ?? th?p khu v?c ?ô th?"""
+a,543603,0.5,0.375,liên_quan#1,"có m?i quan h? nào ?ó v?i nhau; ""cha m? có liên quan c?a ng??i ph?m t?i tr? trung"""
+a,545746,0.125,0.625,th?_?#1,"t? ra l?nh nh?t, không h? quan tâm, ?? ý t?i, không h? có chút tình c?m gì ; ""th? ? v?i th?i cu?c"""
+a,551695,0,0.625,t?m_th?i#1,"không ph?i cu?i cùng hay tuy?t ??i; ""Ngh? ??nh này là t?m th?i và không tuy?t ??i"""
+a,554302,0,0.5,chia_r? bè_phái#1,"b?t ??ng (??c bi?t là ý ki?n b?t ??ng v?i ý ki?n ?a s?); ""trong m?t l?p mà  chia r? bè phái"""
+a,558373,0,0.75,gi?i_h?n#2,"ph?m vi, m?c ?? nh?t ??nh, không th? ho?c không ???c phép v??t qua ; ""s?c l?c con ng??i là có gi?i h?n"""
+a,560900,0.75,0,hòa_??ng#2,"thân thi?n,thích nghi v?i môi tr??ng m?i; ""anh ta là ng??i là hòa ??ng"""
+a,561359,0,0.625,ph?n_c?m#5,"gây ra ph?n ?ng tiêu c?c, làm cho c?m th?y b?c mình, khó ch?u (th??ng nói v? ng??i th??ng th?c ngh? thu?t); ""b?c tranh gây ph?n c?m cho ng??i xem"""
+a,562308,0.625,0,hài_hòa#3,"phù h?p v?i nh?ng th? còn l?i; ""nh?ng b? qu?n áo phù h?p ???c hài hòa v?i quân ??i c?a mình mang"""
+a,575126,0,0.5,b?o_th? c?c_?oan#1,"???c ??y t?i m?c quá ?áng, t?i c?c ?? ; ""thái ?? c?c ?oan"""
+a,579084,0.75,0,d?_th?y#1,"rõ ràng b?ng m?t ho?c tâm trí, ""d? th?y cái tháp ? m?t kho?ng cách xa"""
+a,579622,0.5,0,n?i_ti?ng#2 l?n#5,"d? th?y ? v? trí hay t?m quan tr?ng; ""m?t nhân v?t l?n trong phong trào"", ""ng??i ?àn ông l?n tu?i trong tr??ng"", ""anh ta r?t l?n trong gi?i tài chính"";"
+a,579881,0.5,0,??m#2,"rõ ràng và riêng bi?t; ""??m ch? vi?t tay"", ""m?t nhân v?t trong c?u tr? kh?c ??m"", ""m?t thi?t k? ??m"""
+a,581401,0.125,0.5,vô_hình#2 không d?_th?y#1,"không n?i b?t ho?c không d? dàng nh?n th?y; ""ông ??y chu?i thông qua m?t l? h?ng không d? th?y"", ""ng??i ?àn ông vô hình"""
+a,582164,0.25,0.75,không_th? nh?n_rõ#1,"khó ho?c không th? nh?n th?c, phân bi?t, ""t?ng nhi?t ?? không th? nh?n rõ?"""
+a,582314,0.625,0,phân_bi?t#1,"có kh? n?ng ???c xem là khác nhau ho?c khác bi?t; ""m?t d? án phân bi?t thành b?n giai ?o?n c?a ti?n b?"", ""phân bi?t s? khác nhau gi?a c?p song sinh """
+a,586183,0,0.625,phá_h?y#1,"gây phá h?y ho?c thi?t h?i nhi?u, ""m?t chính sách sai có th? phá ho?i n?n kinh t?"""
+a,587697,0,0.75,tàn_phá#3,"phá ho?i n?ng n? trên m?t ph?m vi r?ng ;  ""c?n bão tàn phá nhi?u nhá c?a"""
+a,589448,0.25,0.5,t?_mãn#1 t? hài_lòng#1,"t? l?y làm tho? mãn v? nh?ng gì mình ?ã ??t ???c, mà không c?n ph?i c? g?ng h?n n?a; ""nó t? mãn v?i nh?ng gì ??t ???c"""
+a,589624,0.125,0.75,b?t_mãn#1,"không b?ng lòng do không ???c tho? mãn ?i?u gì ?ó mà t? ngh? là mình ?áng ???c h??ng; ""thái ?? b?t mãn"""
+a,597424,0.125,0.5,liên_t?c#2,"ti?p n?i nhau thành m?t quá trình không b? gián ?o?n; ""qu?n áo thay ??i liên t?c"""
+a,601032,0,0.625,hung_h?ng#1,"có dáng v? s?n sàng có nh?ng hành ??ng thô b?o ch?ng l?i ng??i khác; ""?i?u b? hung h?ng"""
+a,604617,0.625,0.25,thu?n_ti?n#1,"phù h?p v?i s? tho?i mái hay m?c ?ích c?a b?n hay nhu c?u; ""m?t lý do thu?n ti?n cho không"""
+a,605128,0.125,0.75,b?t_ti?n#1,"không phù h?p v?i s? tho?i mái c?a b?n, m?c ?ích ho?c các nhu c?u ;""th?t là b?t ti?n không có ?i?n tho?i trong nhà b?p"", ""h?i tr??ng l?i là m?t n?i b?t ti?n cho ?i?n tho?i"""
+a,605406,0,0.75,v?ng#1,"không khéo trong ho?t ??ng chân tay, nên k?t qu? ??t ???c th??ng không t?t, không ??p; ""n?u ?n v?ng"""
+a,605893,0.5,0,nh?n_???c#2,"ch?p nh?n r?ng rãi nh? là ?úng hay x?ng ?áng, ""tôi v?a  nh?n ???c ý m?t t??ng ??c ?áo"""
+a,607421,0,0.625,thông_th??ng#4,"h??ng có, th??ng th?y, không có gì l? ho?c ??c bi?t ; ""?? dùng thông th??ng"""
+a,615191,0.5,0,?áng_tin_c?y#3,"xu?t hi?n ?? x?ng ?áng ni?m tin ho?c ch?p nh?n, ""m?t nhân ch?ng ?áng tin c?y"""
+a,623261,0,0.875,hoang_s?#2,"r?t hoang d?i, nh? ? th?i s? khai, nguyên thu?; ""r?ng núi hoang s?"""
+a,621857,0,0.75,b?n_th?u d?_b?n#2,"phi ??o ??c ho?c không trung th?c ; ""m?t k? ho?ch  b?n th?u d? b?n"""
+a,633084,0.125,0.75,gi?_d?i#3,"d?a trên m?t khái ni?m không chính xác ho?c sai l?ch, thông tin; ""gia? dô?i hy v?ng"""
+a,633235,0.25,0.625,sai_l?m#2,"phát sinh l?i; ""m?t gi? ??nh sai l?m"", ""m?t quan ?i?m sai l?m v? tình hình"""
+a,633235,0.25,0.625,l?m#2,"phát sinh l?i; ""anh b? l?m r?i"""
+a,639842,0.875,0,l?ch_s?#2,"??c tr?ng b?i l?ch s? và cách c? x? t?t duyên dáng; ""n?u m?t ng??i ?àn ông ???c duyên dáng và l?ch s? v?i ng??i l? nó cho th?y ông là m?t công dân c?a th? gi?i"""
+a,640520,0.125,0.5,??t_ng?t#4,"r?t b?t ng?, hoàn toàn không có m?t d?u hi?u gì báo tr??c ; ""c?m ??t ng?t"""
+a,641640,0,0.5,b?t_l?ch_s?#1,"không l?ch_s? ; ""anh ta có thái ?? b?t l?ch s?"""
+a,649586,0.5,0,quan_tr?ng#3,"??c tr?ng b?i ?ánh giá c?n th?n và hành án; ""m?t ??c quan tr?ng"", ""m?t lu?n án quan tr?ng"", ""m?t phân tích quan tr?ng c?a nh?ng bài vi?t c?a Melville"""
+a,651039,0,0.625,nghiêm_tr?ng#3,"? trong tình tr?ng x?u ??n m?c tr?m tr?ng, có nguy c? d?n ??n nh?ng h?u qu? h?t s?c tai h?i; ""h?u qu? nghiêm tr?ng"""
+a,652533,0,0.5,không quan_tr?ng#1,"không quan tr?ng; ""bài toán ?ó không quan tr?ng"""
+a,670635,0.25,0.75,?áng_ghét#3,"x?ng ?áng là m?t l?i nguy?n; ""h?n th?t ?áng ghét"""
+a,670741,0.875,0,may_m?n#1,"? vào tình hình g?p ???c ?i?u t?t lành; ""cô ta th?t may m?n"""
+a,670741,0.875,0,may#1,"? vào tình hình g?p ???c ?i?u t?t lành; ""s? may"""
+a,679147,0,0.75,h?ng#1,"h?i hay b? th??ng ho?c h? h?ng; ""Tôi s? không mua hàng hoá b? h? h?ng"", ""c?n bão ?? l?i m?t th?c c?a các tòa nhà b? h? h?ng n?ng"""
+a,685638,0.5,0.125,quy?t_??nh#3,"??c tr?ng b?i các quy?t ??nh và v?ng ch?c; ""m?t kh? n?ng và quy?t ??nh ng??i ph? n? tr?"", ""chúng ta c?n lãnh ??o quy?t ??nh"", ""cô ?y ?ã cho anh ta m?t câu tr? l?i quy?t ??nh"""
+a,688947,0.75,0,?oan_trang#1,"??c tr?ng b?i ??n, nhân ph?m và h??ng v? t?t trong cách c? x? và hành; ""cô ?y là ng??i ?oan trang, d?u dàng"""
+a,689336,0.75,0.125,nghiêm_trang#1,"??c tr?ng c?a ph?m giá và ??n ; ""nét m?t nghiêm trang"""
+a,622935,0.75,0.25,liêm_khi?t#1,"có ph?m ch?t trong s?ch, không tham ô, không nh?n ti?n c?a h?i l? ;""s?ng liêm khi?t"""
+a,620585,0,0.625,b?t_h?p_tác#1,"không mu?n h?p tác; ""m?t nhân ch?ng b?t h?p tác"""
+a,684163,0,0.625,khiêu_dâm#1,"có hành ??ng ?? kích ??ng ?? không ?oan ho?c ham mu?n, ""v? ?i?u th??ng tr? thành khiêu dâm"""
+a,685924,0.5,0.125,kiên_quy?t#2,"??c tr?ng b?i các nhanh chóng và v?ng ch?c; ""ông ta tr? l?i m?t cách d?t khoát"""
+a,686573,0,0.625,do_d?#1,"thi?u quy?t ?oán c?a nhân v?t do d?, không th? hành ??ng ho?c quy?t ??nh nhanh chóng hay v?ng; ""cô ta có tính do d?"""
+a,687952,0.5,0,kh?ng_??nh#1,"t? tin tuyên b? là nh? v?y; ""vi?c kh?ng ??nh giá tr? c?a b?c tranh"""
+a,694608,0.5,0,?ánh_b?i#1,"?ánh ??p, kh?c ph?c, không chi?n th?ng; ""k? thù b? ?ánh b?i"""
+a,695024,0.5,0,b?t_kh?_chi?n_b?i#1,"chi?n th?ng; ""b?t kh? chi?n b?i trong tr?n chi?n"", ""m?t ??i b?t kh? chi?n b?i"""
+a,696207,0,0.5,ngh?ch_ng?m#1,"hay ngh?ch, thích ngh?ch; ""con bé hay ngh?ch ng?m"""
+a,696335,0,0.75,ngoan_c?#2,"kh?ng kh?ng không ch?u t? b? ý ngh?, hành ??ng sai trái c?a mình, m?c dù b? ph?n ??i, ch?ng ??i m?nh m? ; ""??i h?c b? ?ình ch? nh?ng ng??i bi?u tình ngoan c? nh?t"""
+a,696828,0.5,0,tuân_theo#1,"x? lý ho?c s?n sàng ?? th?c hi?n; ""m?t ng??i nào ?ó tuân theo thuy?t ph?c"""
+a,700451,0.75,0,xác_??nh#1,"chính xác, rõ ràng và xác ??nh rõ ràng; ""Tôi mu?n có m?t câu tr? l?i rõ ràng"", ""m?t tuyên b? xác ??nh c?a các ?i?u kho?n c?a s?"""
+a,703109,0,0.625,chán_n?n#1,"b? ?nh h??ng ho?c ?ánh d?u b?ng tinh th?n th?p; ""cô ?y chán n?n nh?ng c? g?ng ?? nhìn vui v?"""
+a,704609,0.625,0.25,ph?n_ch?n#1,"? tr?ng thái h?ng hái, h?ng kh?i do tác ??ng c?a m?t s? vi?c ho?c ý ngh? tích c?c, h?p nguy?n v?ng ; ""ng??i chi?n th?ng ph?n ch?n"""
+a,709215,0,0.625,y?u_?u?i m?ng_manh#3,"tinh t? d? b? phá v?, h? h?ng ho?c b? phá h?y; ""cô ?y là ng??i y?u ?u?i m?ng manh"""
+a,712004,0.5,0.125,d?_tính#3,"có tính d? dãi, không ?òi h?i nhi?u ?? có th? hài lòng ; ""m?t giáo viên d? tính"""
+a,713351,0,0.5,tuy?t_v?ng#5,"hi?n th? c?c k? kh?n c?p ho?c c??ng ?? ??c bi?t vì nhu c?u r?t l?n ho?c mong mu?n, ""c?m th?y m?t thôi thúc tuy?t v?ng ?? thú nh?n"""
+a,715140,0.625,0.25,dân_ch?#1,"??c tr?ng b?i ho?c ?ng h? ho?c d?a trên các nguyên t?c c?a n?n dân ch? hay công b?ng xã h?i; ""chính ph? dân ch?"", ""m?t n??c dân ch?"""
+a,717417,0,0.625,phi dân_ch?#1,"không ??ng ý v?i ho?c theo h?c thuy?t dân ch? ho?c th?c hành hay lý t??ng; ""các công ?oàn ?ã phá v? các th? t?c qua phi dân ch? c?a mình"""
+a,724397,0.625,0,ch?c_ch?n#5,"?áng tin c?y trong ho?t ??ng ho?c hi?u ?ng; ""m?t bi?n pháp kh?c ph?c nhanh chóng và ch?c ch?n"", ""m?t cách ch?c ch?n ?? phân bi?t hai"", ""b?i g? là m?t d?u hi?u ch?c ch?n c?a m?i"""
+a,726317,0,0.75,b?t_l?c#3,"không th? qu?n lý ??c l?p; ""b?t l?c nh? m?t em bé"""
+a,732960,0.5,0,mong_mu?n#1,"giá tr? có ho?c tìm ki?m ho?c ??t ???c; ""m?t công vi?c mong mu?n"",""m?t k?t qu? mong mu?n"""
+a,736299,0,0.5,??_nát#3,"??a ??n h?y ho?i; ""sau cu?c cách m?ng quý t?c ?ã ?? nát"""
+a,737116,0,0.625,??m#1,"b? phá h?y trong m?t tai n?n; ""m?t con tàu ??m"", ""m?t xa l? ??y ?? c?a chi?c xe ??m"""
+a,737432,0.625,0,b?o_t?n#1,"b?o v? kh?i tác h?i, m?t mát ; ""di tích l?ch s? c?n ???c b?o t?n"""
+a,738829,0.625,0,phát_hi?n#1,"có kh? n?ng ???c xác ??nh ch?c ch?n ho?c phát hi?n ra""; ""m?t ??i d??ng n?a ???c phát hi?n"""
+a,741076,0.625,0,quy?t_tâm#2,"quy?t và c? g?ng th?c hi?n b?ng ???c ?i?u ?ã ??nh, tuy bi?t là có nhi?u khó kh?n, tr? ng?i; ""quy?t tâm t?ng tr??ng"""
+a,745858,0.125,0.75,gian_kh?#3,"khó kh?n ?? th?c hi?n, ?òi h?i n? l?c ?áng k? v? tinh th?n và k? n?ng; ""công vi?c gian kh? c?a vi?c chu?n b? m?t t? ?i?n"""
+a,746994,0.75,0.125,nh?y_c?m#2,"khó kh?n ?? x? lý; ?òi h?i l?n nguyên v?n; ""m?t ch? ?? nh?y c?m"""
+a,747226,0.125,0.875,tr?c_tr?c#3,"th?t th??ng khó kh?n trong ho?t ??ng, có th? b? phi?n hà; ""tên l?a b? nhi?u quá tr?c tr?c s? ???c th? nghi?m g?n khu v?c dân c? dày ??c"", ""thành ph?n tr?c tr?c c?a h? th?ng truy?n thông"""
+a,748947,0,0.5,c?_g?ng#1,"b? công s?c ra nhi?u h?n m?c bình th??ng ?? làm vi?c g; ""gi?m khi l?n c? g?ng"""
+a,749040,0,0.625,b?c_b?i#2,"gây khó kh?n trong vi?c tìm ki?m m?t câu tr? l?i hay gi?i pháp, nhi?u tranh ch?p; ""b?c b?i v?n ?? ?u tiên"""
+a,751525,0.5,0.25,nghiêm#1,"có hay th? hi?n nhân ph?m, ??c bi?t là hình th?c ho?c stateliness ? mang ho?c xu?t hi?n; ""thái ?? trang nghiêm c?a mình"", ""giám ??c c?a tr??ng ?ã ???c m?t mái tóc tr?ng trang nghiêm quý ông"""
+a,752847,0,0.625,ng?_ng?n#3,"c?m h?ng khinh th??ng h?i; ""m?t cách tr? l?i ng? ng?n"""
+a,754873,0.25,0.5,c?u_th?#1,"??c tr?ng b?i quá ?áng, b? bê, thi?u quan tâm;""cha m? c?u th?"", ""c?u th? c?a các chi ti?t"", ""c?u th? trong th? c?a mình"""
+a,757923,0.625,0,t?p_trung#5,"d?n s?c ho?t ??ng, h??ng các ho?t ??ng vào m?t vi?c gì ; ""t?p trung t? t??ng"""
+a,509206,0,0.625,không t??ng_thích#4,"không có kh? n?ng ???c s? d?ng ho?c k?t n?i v?i các thi?t b? khác ho?c các thành ph?n mà không s?a ??i; ""ph?n m?m không t??ng thích v?i linux"""
+a,513165,0,0.75,không c?nh_tranh#1,"tranh ?ua nhau ?? giành l?y l?i ích v? phía mình, gi?a nh?ng ng??i, nh?ng t? ch?c có cùng l?nh v?c ho?t ??ng nh? nhau ; ""không c?nh tranh v? trí"", ""không c?nh tranh lãi su?t trong các trò ch?i"""
+a,514717,0,0.625,không nén ???c#1,"không có kh? n?ng b? nén, ch?u nén, ""??ng rác không nén ???c"""
+a,553899,0,0.625,không cân_??i#1,"không ??ng ý ho?c s? hòa h?p, ""không cân ??i quan ?i?m v?i nh?ng ý t??ng hi?n nay"""
+a,759169,0.5,0,l?ch_thi?p#2,"t? ra bi?t cách giao thi?p, làm v?a lòng ng??i ti?p xúc v?i mình ; ""cách c? x? l?ch thi?p"""
+a,760783,0,0.75,xa_lánh#1,"gây ra s? thù ??ch ho?c m?t thân thi?n; ""ch? ?y hay xa lánh tôi"""
+a,764301,0,0.5,vô_t?i_v?#2,"th?ng th?n tr?c ti?p và th?ng th?n nh?ng, t?t b?ng; ""làm m?t cách vô t?i v?"""
+a,764484,0.5,0.125,th?ng#1,"không kiêng n?, không che gi?u, không úp m?, dám nói lên s? th?t ho?c nói ?úng nh?ng ?i?u mình ngh? ; ""nói th?ng"""
+a,765173,0,0.625,tàn_b?o#4,"??c ác và hung b?o ; ""cách ??i x? tàn b?o ch?a t?ng th?y"""
+a,771373,0.875,0,sành_?i?u#1,"có ho?c ti?t l? cái nhìn s?c bén và s? phán ?oán t?t; ""m?t nhà phê bình sành ?i?u"", ""m?t ng??i ??c sành ?i?u"""
+a,771803,0.625,0,sáng_su?t#2,"có kh? n?ng nh?n th?c ?úng ??n, giúp gi?i quy?t v?n ?? m?t cách t?nh táo, không sai l?m ; ""??u óc sáng su?t"""
+a,772910,0.625,0,kín_?áo#1,"?ánh d?u b?ng s? khiêm t?n và th?n tr?ng ho?c t? ki?m ch? khôn ngoan; ""tr? lý tin c?y kín ?áo c?a mình"""
+a,773579,0.625,0,phân_bi?t ??i_x?#1,"?ánh d?u b?ng kh? n?ng nhìn th?y ho?c làm cho s? phân bi?t ti?n ph?t; ""b?n án phân bi?t ??i x?"""
+a,773759,0.125,0.625,b?a_bãi#2,"không có tr?t t?, không k? gì tr?t t? ; ""thói quen ??c b?a bãi"", ""m?t h?n h?p b?a bãi c?a màu s?c và phong cách"""
+a,774006,0,0.75,l?ng_nh?ng#1,"?? các th? b?t kì, tu? ti?n và ch?ng có giá tr? gì ; ""h?n vi?t l?ng nh?ng trên gi?y"""
+a,774676,0.5,0,?ánh_giá cao#2,"có hay trân tr?ng hay m?t phán quy?t thu?n l?i quan tr?ng ho?c ý ki?n; ""?ánh giá cao v? m?t phong c?nh ??p"", ""m?t ti?ng c??i tán th??ng t? phía khán gi?"""
+a,775693,0.625,0,ch?n_l?c#1,"ch?m sóc ?? ch?n, ??c tr?ng b?i s? l?a ch?n c?n th?n; ""m?t ??u ??c ??c bi?t nhanh chóng và ch?n l?c"""
+a,785889,0.75,0,không r?i_r?c#1,"không chia, chia thành nhi?u ph?n; ""các l?p ?ã ???c h?p nh?t thành m?t kh?i không r?i r?c"""
+a,787136,0.125,0.5,??c_?oán#1,"dùng quy?n c?a mình mà ??nh ?o?t công vi?c theo ý riêng, b?t ch?p ý ki?n c?a nh?ng ng??i khác ; ""quy?t ??nh ??c ?oán"""
+a,788032,0.125,0.5,b?t_n?t#1,"c?y quy?n th?, s?c m?nh mà do? d?m làm cho ph?i s? ; ""b?t n?t tr? con"""
+a,788821,0.75,0,ph?c_tùng#1,"tuân theo, không làm trái l?i ; ""công ch?c ph?c tùng"""
+a,791131,0.25,0.75,không_ph?c#1,"không làm theo ho?c không ph?c tùng; ""tôi không ph?c anh"""
+a,792476,0.625,0,s?_h?u#3,"có ho?c hi?n th? m?t mong mu?n ki?m soát ho?c chi ph?i; ""cha m? s? h?u"""
+a,795078,0.5,0.125,khoa_tr??ng#1,"có h?ng thú và h?p d?n v? c?m xúc c?a câu chuy?n c??ng ?i?u; ""anh ta có tính khoa tr??ng"""
+a,796591,0.5,0,s?c_s?#2,"có nhi?u màu s?c sáng, chói xen l?n nhau ; ""qu?n áo s?c s?"""
+a,799517,0.625,0,t?nh_táo#1,"? tr?ng thái t?nh, không bu?n ng?, không say, không mê; ""ng??i b?nh ?ã hoàn toàn t?nh táo"""
+a,804695,0.5,0,sinh_??ng#1,"??y ?? c?a cu?c s?ng và n?ng l??ng; ""khu v??n sinh ??ng"""
+a,805566,0.625,0.25,mát_m?#1,"át, có v? nh? nh? nhàng nh?ng th?t ra là có ý m?a mai, chê trách, h?n d?i; ""buông l?i mát m?"""
+a,805810,0.75,0.25,l?p_lánh#3,"có ánh sáng ph?n chi?u không liên t?c, nh?ng ??u ??n, v? sinh ??ng ; ""m?t sáng l?p lánh"""
+a,810636,0,0.5,l?c_h?u#4,"có ít h?n ti?n ?? bình th??ng; ""m?t ??t n??c l?c h?u v? kinh t?"""
+a,810916,0.625,0.25,ham#1,"có ho?c hi?n th? quan tâm ho?c mong mu?n mãnh li?t hay th? thi?u kiên nh?n; ""ham h?c"""
+a,821959,0.625,0.125,danh_d?#1,"cho là m?t vinh d? mà không có nh?ng nhi?m v? bình th??ng; ""m?t b?ng danh d?"""
+a,822115,0.625,0,d?_dàng#3,"có v? d?, không ?òi h?i nhi?u ?i?u ki?n, nhi?u công phu ; ""làm ?n d? dàng"""
+a,830717,0.25,0.75,ít_h?c#1,"không có m?t n?n giáo d?c t?t; ""ng??i thi?u s? th??ng ít h?c"""
+a,834048,0,0.75,không_còn t?n_t?i#1,"không còn hi?u l?c, s? d?ng, không ho?t ??ng; ""m?t lu?t không còn t?n t?i"", ""m?t t? ch?c không còn t?n t?i"""
+a,837977,0,0.5,v?t_v?#2,"? vào tình tr?ng ph?i b? ra nhi?u s?c l?c hay tâm trí vào m?t vi?c gì trong m?t th?i gian dài; ""ng??i nông dân quanh n?m v?t v?"""
+a,841403,0,0.5,m?nh_m?#1,"??c tr?ng b?i ho?c toàn b? l?c ho?c s?c m?nh (th??ng nh?ng không nh?t thi?t th? ch?t); ""m?t ng??i m?nh m?"""
+a,848074,0.5,0,b?t_bu?c#1,"v? m?t ??o ??c hay pháp lý ràng bu?c hay b?t bu?c; ""t?i nhà là b?t bu?c"", ""m?t ?óng góp b?t bu?c"""
+a,851744,0.5,0,??_?i?u_ki?n#1,"?? tiêu chu?n ho?c cho phép ho?c x?ng ?áng ???c ch?n; ""?? ?i?u ki?n ?? ch?y cho các v?n phòng"", ""h?i ?? ?i?u ki?n cho phúc l?i h?u trí"", ""m?t c? nhân ?? ?i?u ki?n"""
+a,852197,0.5,0,x?ng_?áng#2 phù_h?p mong_mu?n#2,"x?ng ?áng là l?a ch?n ??c bi?t là khi m?t ng??i ph?i ng?u, ""các b?c cha m? th?y các cô gái thích h?p cho con trai c?a h?"""
+a,854255,0.5,0.25,c?m#1,"??c tr?ng b?i c?m xúc ; ""c?m th?y l?nh"""
+a,858558,0.75,0,kiên_nh?n#1,"có kh? n?ng ti?p t?c làm vi?c ?ã ??nh m?t cách b?n b?, không n?n lòng, m?c dù th?i gian kéo dài, k?t qu? còn ch?a th?y ; ""kiên nh?n ch? ??i"""
+a,864693,0,0.625,th?t_nghi?p#1,"không tham gia vào m?t ngh? nghi?p nào; ""công nhân th?t nghi?p ?ã tu?n hành v? th? ?ô"""
+a,865620,0.75,0,say_mê#1,"??y ng?c nhiên và thích thú; ""cô ta th?c s? say mê b? phim"""
+a,866047,0,0.875,th?t_v?ng#1,"m?t h?t hi v?ng, không còn trông mong gì ???c n?a ; ""cô ?y l?c ??u th?t v?ng"""
+a,866392,0.5,0.375,v?_m?ng#1,"gi?i thoát kh?i ?o t??ng; ""th?t b?i làm cô ?y v? m?ng"""
+a,876465,0.25,0.5,l?_?ãng#1,"thi?u ni?m say mê ho?c s? lanh l?; ""ông ?ã l? ?ãng và chán"""
+a,883830,0,0.625,t?i_gi?n#1,"không có kh? n?ng ???c th?c hi?n nh? h?n ho?c ??n gi?n; ""m?t t?i thi?u t?i gi?n"", ""m?t công th?c t?i gi?n"""
+a,884007,0.5,0,giác_ng?#1,"hi?u ra ho?c làm cho hi?u ra l? ph?i trái; ""giác ng? cách m?ng"""
+a,885415,0.25,0.625,không gan_d?#1," không dám m?o hi?m ; ""anh ?y không gan d?"""
+a,885695,0.625,0,nhi?t_tình#1,"có hay th?y h?ng thú và quan tâm r?t l?n; ""?ám ?ông ??y nhi?t tình ???ng ph?"", ""m?t ph?n ?ng nhi?t tình"""
+a,888765,0.375,0.5,ganh_t?#1,"khó ch?u, b?c d?c v?i ng??i ???c h??ng cái gì ?ó (th??ng là v? tinh th?n, tình c?m) h?n mình, có ???c cái mình mu?n mà không có ; ""ghen ?n v?i em"""
+a,889239,0.75,0,nh?_nhà#1,"khao khát tr? v? nhà; ""tuy xa nhà ch?a lâu nh?ng cô r?t nh? nhà"""
+a,899612,0.125,0.5,ph?c_t?p#1,"?òi h?i ki?n th?c bí m?t hay bí ?n; ""các nghiên c?u khoa h?c ph?c t?p c?a C?m x?"""
+a,904163,0.75,0,tôn_kính#1,"x?ng ?áng tôn tr?ng ho?c ??i cao ; ""các v? th?n r?t ???c tôn kính"""
+a,904548,0,0.75,khinh#1,"?áng khinh mi?t ho?c khinh mi?t ; ""hành ??ng th?t ?áng  khinh"""
+a,905181,0.333,0.667,th??ng_tâm#1 th?m_h?i ?áng_th??ng#2,"c?m h?ng pha tr?n s? khinh th??ng và th??ng h?i; ""nh?ng n? l?c c?a h? ?ã ???c th?m h?i"", ""thi?u nhân v?t ?áng th??ng"""
+a,905386,0.625,0,??o_??c#2,"phù h?p v?i tiêu chu?n ???c ch?p nh?n hành vi xã h?i ho?c chuyên nghi?p; ""m?t lu?t s? có ??o ??c"", ""??o ??c hành ngh? y"", ""m?t v?n ?? ??o ??c"", ""?ã không ph?n ??i ??o ??c ?? u?ng""; "" Chúng ta là m?t th? gi?i c?a ng??i kh?ng l? h?t nhân và tr? s? sinh có ??o ??c "" Omar N. Bradley"
+a,905905,0.5,0,mi?n_phí#1,"truy?n ??t hay gi?ng nh? m?t l?i khen; ""u?ng trà mi?n phí"""
+a,906312,0.5,0.25,ca_ng?i#1,"??y ?? ho?c cho l?i khen ng?i; ""ca ng?i nh?ng ng??i anh hùng ?ã hi sinh cho dân t?c"""
+a,907032,0,0.75,chê_bai#1,"t? l?i chê; ""lên ti?ng chê bai"""
+a,912814,0,0.75,loang_l?#1,"không ??u ho?c không ??ng ??u trong k?t c?u, ch?t l??ng;  ""s??ng mù loang l?"""
+a,919984,0.25,0.5,?iên#3,"s? h?u b?i s? ph?n khích quá m?c; ""?ám ?ông ?iên"""
+a,923993,0,0.5,khi?n_trách#1,"phê phán nghiêm kh?c khuy?t ?i?m c?a c?p d??i ; ""h?n b? khi?n trách vì thi?u tinh th?n trách nhi?m"""
+a,925560,0.625,0,c?n_ki?t#1,"c?n s?ch, ??n m?c không còn tìm ?âu, l?y ?âu ra n?a ; ""nguyên li?u c?n ki?t"""
+a,925820,0.625,0,tái_t?o#2,"có kh? n?ng ???c gia h?n, thay th?; ""n?ng l??ng tái t?o nh? n?ng l??ng m?t tr?i là vô t?n v? m?t lý thuy?t"""
+a,932695,0,0.75,tiêu_hao#1,"gi?m chi tiêu; ""tiêu hao n?ng l??ng"""
+a,933154,0.5,0,??t#1,"cao giá ho?c s?c giá cao; ""qu?n áo ??t ti?n"", ""m?t c?a hàng ??t ti?n"""
+a,938659,0.5,0,h?p_l?#2,"v?n h?p pháp ch?p nh?n ???c; ""gi?y phép còn h?p l?"""
+a,946499,0.5,0,m?_r?ng#1,"có th? ho?c có xu h??ng m? r?ng ho?c ??c tr?ng b?i s? m? r?ng; ""m? r?ng các v?t li?u"", ""các l?c l??ng m? r?ng c?a l?a"""
+a,958151,0.5,0,công_b?ng#1,"công b?ng cho t?t c? các bên nh? là quy?t ??nh b?i lý trí và l??ng tâm; ""công b?ng ?i?u tr? c?a t?t c? các công dân"", ""m?t phân ph?i công b?ng c?a các quà t?ng trong s? các tr? em"""
+a,958475,0.625,0.25,trung_th?c#7,"?ã ??t ???c ho?c ki?m ???c mà không có gian l?n ho?c tr?m c?p; ""m?t m?c l??ng trung th?c"", ""m?t ??ng xu công b?ng"""
+a,958712,0.25,0.625,b?t_công#3 không_công_b?ng#1,"không công b?ng; ""vi?c phân chia không công b?ng c?a c?i"", ""không công b?ng thu?"""
+a,958880,0.625,0,trung_thành#1,"kiên ??nh trong tình c?m hay lòng trung thành; ""n?m ph?c v? trung thành"", ""trung thành nhân viên"", ""chúng tôi không nghi ng? r?ng n??c Anh có m?t ng??i yêu n??c trung thành trong Chancellor Chúa"""
+a,959731,0.625,0,chung_th?y#1,
+a,959979,0,0.625,b?_??o#1,
+a,960094,0,0.5,nguy_hi?m#2,
+a,960481,0.125,0.75,không ?úng s?_th?t#2,
+a,963502,0,0.5,ch?u_n?i#2,
+a,964303,0.25,0.625,lang_thang#1,
+a,966477,0,0.625,l?#1,
+a,968730,0.5,0,k?_l?#2,
+a,983862,0.5,0,khó_tính#1,
+a,990855,0.5,0,m?nh_d?#3,
+a,1000881,0,0.75,kh?_s?#1,
+a,1001180,0,0.75,v?_v?n#1,
+a,1001547,0,1,b?t_h?nh#3,
+a,2395115,0.625,0.25,ngon#1,
+a,2423432,0.5,0,g?n_gàng#2,
+a,2423284,0.5,0.375,tr?t_t?#2,
+a,2418538,0,0.625,không_th?_t??ng_t??ng#1,
+a,2418872,0.625,0,chu_?áo#2,
+a,2421003,0,0.75,vô_tâm#1 không suy_ngh?#1 không_bi?t suy_ngh?#1,
+a,2422685,0.625,0,ng?n_n?p#1,
+a,2427087,0.625,0,ch?nh_t?#1,
+a,2425220,0.125,0.75,bù_xù#1 b? làm nhàu#1 nh?n nhúm#1 nh?n nhúm#1,
+a,2425529,0,0.5,l?n_x?n#1 không tr?t_t?#1 m?t tr?t_t?#2,
+a,2426042,0,0.875,b?a_b?n#1,
+a,2435671,0,0.625,không ch?u_??ng ???c#1 không_th? ch?u_??ng#1 không_th? ch?p_nh?n#1,
+a,2435901,0,0.5,cay_??ng#2,
+a,2436341,0.5,0,ch?u#1,
+a,2450640,0,0.625,không ??c#1 không có ch?t_??c#1,
+a,2451951,0,0.75,khó#1,
+a,2455845,0,0.5,qu?y_r?y#1 làm_phi?n#1 qu?y_r?i#2,
+a,2458871,0,0.5,kh?#1,
+a,2459109,0,0.625,thanh_th?n#1,
+a,2462089,0,0.75,gian_d?i#2,
+a,2464277,0,0.625,c?nh_giác#2 nghi_ng?#1,
+a,2465978,0.5,0,tin_c?y#1,
+a,2469928,0,0.75,không ?i?n_hình#1,
+a,2488304,0.5,0,cao_c?p#1,
+a,2497141,0.125,0.625,vô_d?ng#1,
+a,2497743,0,0.5,vô_ích#1,
+a,2497013,0.5,0,dùng ???c#1,
+a,2499750,0,0.75,không h?p_l?#1,
+a,2502163,0.75,0.25,vô_giá_tr?#1,
+a,2502994,0.125,0.5,v?t#1 không_?áng_k?#2,
+a,2503305,0,0.625,vô_ngh?a#3 không có ý ??nh#2,
+a,2513614,0.625,0.125,vô_t?i#3 không_có gì chê_trách ???c#1,
+a,2513740,0,0.625,ác#1,
+a,2531243,0.5,0.25,n?ng_nhi?t#1,
+a,2527489,0.625,0,mong_m?i#1,
+a,2539968,0.5,0,hoan_nghênh#1,
+a,2541012,0.625,0.375,bình_ph?c#1 ch?a lành#1 ch?a kh?i#1,
+a,2543324,0,0.625,b? viêm cu?ng_ph?i#1,
+a,2544048,0,0.75,chóng_m?t#1 chóng_m?t#1 ham_ch?i s? 1 chóng_m?t#1,
+a,2545023,0,0.625,là l?#4,
+a,2545257,0,0.75,xanh#4,
+a,2545989,0,0.5,tê_li?t#1 li?t#2,
+a,2550891,0,0.5,dính#1,
+a,2557357,0.625,0,lành_m?nh#1,
+a,2558184,0.875,0,h?p_v?_sinh#1,
+a,2563616,0,0.5,d? s?_d?ng#1,
+a,2565701,0.5,0,s?n_sàng#3,
+a,2566015,0,0.75,không mu?n#1,
+a,2566453,0.125,0.625,mi?n_c??ng#1,
+a,2569558,0.625,0,khôn#1,
+a,2570282,0,0.625,ngu_ng?c#1 d?t#1,
+a,2580449,0,0.5,mòn#1,
+a,2585545,0.625,0,?áng_khen_ng?i#1#1 r?t ?áng m?ng#1 ?áng hoan_nghênh#1,
+a,2587738,0.625,0,quý_giá#1,
+a,2587261,0.75,0,thiêng liêng#2,
+a,2588647,0.5,0,không xác_?áng#1,
+a,2594565,0,0.75,lành#1,
+a,2594714,0.5,0.25,ác_tính#1,
+a,2605416,0.375,0.5,tiêu_??c#1,
+a,2605953,0.5,0,kháng virus#1,
+a,2612653,0,0.625,d?_?ng#1,
+a,2647358,0,0.5,suy_nh??c#1,
+a,2661446,0.625,0,nhân_t?#1,
+a,2670812,0,0.5,không vành#1,
+a,2671885,0,0.625,háu_?n#1,
+a,2679858,0.125,0.5,gây ung_th?#1,
+a,2708232,0.5,0,tu?n_hoàn#1,
+a,2746103,0,0.75,suy_gi?m_mi?n_d?ch#1,
+a,2806261,0.625,0,b?n_v?ng#1,
+a,2833873,0.625,0,kháng_khu?n#1,
+a,2848119,0,0.5,phi tài_chính#1,
+a,2879535,0,0.75,phi ngôn_ng?#1,
+a,2858816,0.125,0.5,cá_nhân#3,
+a,2911488,0,0.625,phi tham_s?#1,
+a,2929901,0.5,0,h?p_lý#3,
+a,2951702,0.625,0.25,êm_tai#1,
+a,2998269,0.625,0,tinh_túy#1,
+a,3119608,0.125,0.625,co_c?ng#1,
+a,1160031,0,0.625,h?i#1,
+a,1160584,0,0.875,l?m_d?ng#2,
+a,1161233,0,0.875,vu_kh?ng#1 bôi_nh?#1 ph?_báng#1 nói_x?u#1 gièm_pha#1,
+a,1161635,0,0.75,tai_h?i#1 thê_th?m#1,
+a,1161877,0.125,0.5,ph?n_tác_d?ng#1,
+a,1162267,0,0.75,t?i#2,
+a,1162406,0,0.625,x?o_quy?t#3 qu?_quy?t#3,
+a,1162817,0,0.5,có_h?i#1,
+a,1162901,0,0.75,?au_th??ng#1 ?au_nhói#1,
+a,1163083,0.75,0,du_d??ng#1,
+a,1163860,0.5,0.25,tinh_khi?t#4,
+a,1164072,0,0.75,không ?i?u hòa#1,
+a,1165474,0.625,0,kháng_sinh#1,
+a,1166413,0.875,0,b?_ích#1,
+a,1166875,0.625,0,h?u_c?#5,
+a,1167269,0.75,0,phòng_ng?a#3 phòng#1 ng?n_ch?n#2,
+a,1167817,0,0.5,h?i_s?c_kh?e#2,
+a,1168166,0,0.5,vô_hi?u_hóa#1 làm tê_li?t#1,
+a,1168315,0,0.5,gây_b?nh#1,
+a,1168845,0.125,0.875,không lành_m?nh#3,
+a,1169940,0.25,0.75,không ho?t_??ng#2,
+a,2390569,0,0.625,h?n_lo?n#2,
+a,2391455,0.5,0,h?u_hình#1 có_th? s?_mó ???c#1,
+a,2391867,0.125,0.625,phi v?t th?#2 không s?_th?y ???c#1 vô hình#2,
+a,1170069,0,0.5,gây s?t#1,
+a,1170823,0.875,0,h?ng_hào#1 h?ng#2 má_h?ng#1,
+a,1170243,0.625,0,kh?e_kho?n#1,
+a,1170984,0.75,0,kh?e_m?nh#1,
+a,1170984,0.75,0,kh?e#1,
+a,1170984,0.75,0,m?nh#1,
+a,1171076,0.75,0,s?n ch?c#8,
+a,1171076,0.75,0,s?n#8,
+a,1171076,0.75,0,ch?c#8,
+a,1171396,0.75,0,sung_s?c#4 tráng_ki?n#1,
+a,1171606,0.75,0,m?nh_kh?e#4,
+a,1172139,0.5,0,t??i_t?n#1 ??_?ng#1 t??i nh? hoa#2,
+a,1172594,0.75,0,tr?_trung#1,
+a,1173697,0,0.875,nh?c_nh?i#3,
+a,1175007,0,0.75,??_ng?u#1,
+a,1174222,0,1,không kh?e_m?nh#5 không t?t#10,
+a,1175158,0,0.625,b? loét#1 b? ung_loét#1 b? th?i m?c#1,
+a,1175741,0,0.625,??y khí#2 ?au_b?ng#1,
+a,1176246,0.125,0.625,b?nh_lý#1 b?nh_h?c#1 b?nh_ho?n#3 b?nh#1,
+a,1176544,0,0.75,b? ch?ng_phù#1 phù#1,
+a,1176973,0,0.5,b? th?i ho?i#1 ho?i_t?#1,
+a,1177105,0,0.875,s?ng_t?y#1,
+a,1177105,0,0.875,t?y#1,
+a,1177246,0,0.75,viêm#1,
+a,1177556,0,0.625,vàng#6 vàng da#1,
+a,1177899,0.125,0.5,tâm_th?n#5,
+a,1178134,0,0.875,?m_y?u#1 vàng_v?t#1,
+a,1178231,0,0.75,b? ?au_m?t#1,
+a,1178458,0,0.875,b? giãn t?nh_m?ch#1,
+a,1178669,0,0.75,khô#7,
+a,1178856,0.5,0.375,có ??m#1,
+a,1179345,0.5,0,trên thiên_???ng#2 thanh_tao#3 nh? thiên_?àng#3,
+a,1179767,0.5,0,th?n_thánh#2 thiêng_liêng#3,
+a,1181446,0,0.5,thu?c trái_??t#2 tr?n_t?c#3,
+a,1182414,0,0.5,nh?#8,
+a,1182974,0,0.5,??y_h?i#1,
+a,1183274,0,0.5,không tiêu#1,
+a,1183436,0.125,0.625,n?ng_b?ng#1,
+a,1188058,0,0.75,h?ng nh?#1,
+a,1190168,0,0.625,n?ng_n?#4,
+a,1189386,0,0.875,?áng_lo_ng?i#2 nhi?u_lo?n#1 ?au#1 bu?n_phi?n#1 làm bu?n_r?u#1,
+a,1195963,0.5,0,s?n_lòng giúp_??#2,
+a,1199663,0,0.5,không ??u#1 không ??ng_nh?t#1,
+a,1190993,0,0.625,nh?_nhàng#4,
+a,1196276,0.5,0,giúp_??#1,
+a,1196367,0.5,0,gi? th?_di?n#1,
+a,1208571,0.5,0,công_ngh? cao#1 công_ngh? cao#1,
+a,1210581,0.25,0.5,lãi_su?t th?p#1,
+a,1210717,0.125,0.5,lãi_su?t cao#1,
+a,1211296,0.5,0,nâng_cao#4,
+a,1212867,0,0.5,xu?ng#6 gi?m#1,
+a,1214430,0.5,0,s?c nét#6,
+a,1216317,0,0.625,khàn_khàn#1,
+a,1217338,0,0.5,mô_ph?ng#2,
+a,1221057,0,0.625,d?#1 d?_d?ng#1 bi?n_d?#1,
+a,1225898,0,0.625,sai s?_th?t#1,
+a,1226240,0.75,0,danh#1,
+a,1226660,0.5,0,kính#2 ?áng_kính_tr?ng#2,
+a,1224253,0.125,0.75,ch?t_l??ng kém#3 l?a_??o#1 gây hi?u_l?m#2,
+a,1229020,0,0.75,vô_v?ng#1,
+a,1223941,0,0.625,gian_l?n#1,
+a,1227137,0,0.5,?ê_ti?n#1,
+a,1227546,0.125,0.5,l?ng_nh?c#1 ?áng x?u_h?#2 ô_nh?c#1 ?en_t?i#12,
+a,1228050,0,0.625,xu?ng_c?p#2 gi?m_giá_tr?#1,
+a,1230521,0,0.625,không có t??ng_lai#1,
+a,1241248,0,0.625,?_??ng#1,
+a,1250694,0,0.75,chang_chang#3,
+a,1250835,0,0.5,nhi?t_??i#4,
+a,1251830,0,0.625,l?nh_toát#1,
+a,1252151,0,0.75,c?c#5 b?ng#2 b? l?nh#3 b?ng#1 l?nh b?c_c?c#2 r?t l?nh#2,
+a,1253022,0,0.5,sinh_hàn#1,
+a,1249137,0.625,0,có_th? làm nóng#1,
+a,1250393,0,0.625,oi_?#1 ng?t_ng?t#1,
+a,1261363,0.5,0,phi th??ng#5,
+a,1260023,0,0.625,không_ph?i ng??i#1,
+a,1263971,0,0.625,không c?m_??ng#2 máu_l?nh#1 l?nh_lùng#9,
+a,1266841,0.5,0.125,vui_nh?n#1,
+a,1267076,0.875,0,?ùa#1 vui_?ùa#1 pha_trò#1,
+a,1307067,0.5,0,thân_giao#1,
+a,1307850,0.5,0,am_hi?u#2 bi?t#3,
+a,1302811,0,0.625,truy?n_nhi?m#2,
+a,1301624,0.625,0,công_nghi?p#2,
+a,1317954,0,0.625,th??ng#1,
+a,1323207,0.625,0,??_cao#1 cao_c?#2,
+a,1475831,0.5,0.125,nam_tính#1 tánh ch?t ?àn_ông#1 d?ng_c?m#1,
+a,1474513,0.625,0,qu?n_lý#1,
+a,1471954,0,0.75,v? thành_niên#1 ch?a tr??ng_thành#1 th?#5,
+a,1470913,0,0.625,không nhi?m_t?#1,
+a,1174565,0,0.625,s?ng#2 s?ng lên#2 s?ng phù#1 s?ng_húp#2 ?ng#1,
+a,1175298,0,0.75,b? nh?t#1 có nh?t#1,
+a,1175427,0,0.5,b? sâu#1,
+a,1197634,0.625,0,cánh_tay_ph?i#3,
+a,1204443,0,0.625,không x?p_h?ng#1 không có th?_t?#2 không phân_c?p#2,
+a,1221290,0,0.5,t??ng_t?#2,
+a,1220882,0,0.5,t??ng_??ng#1 ??ng_??ng#1,
+a,1222884,0,0.875,không_trung_th?c#1,
+a,1232298,0,0.75,không_th? gi?i_khuây#1 không nguôi_ngoai#1,
+a,1241065,0,0.5,??ng#3,
+a,1243825,0.5,0,hi?u_khách#2,
+a,1245138,0.25,0.75,có ác_c?m#2 gây ác_c?m#2 ??i_l?p#2,
+a,1264179,0,0.625,tàn_nh?n#2,
+a,1263445,0.125,0.5,hung_b?o#1 v?_phu#1 thú_tính#3,
+a,1265308,0.5,0,?áng c??i#1 t?c_c??i#2 hài_h??c#1 vui#2,
+a,1272397,0.625,0,nh?n_d?ng ???c#1,
+a,1273143,0,0.5,vô_??nh#1,
+a,1272176,0,0.625,ung_dung#1,
+a,1273033,0.625,0,có_th? ??nh rõ#1,
+a,1274261,0.125,0.625,khi?m#1,
+a,1274945,0,0.5,suy_y?u#1 h?ng_hóc#1 gi?m_sút#1,
+a,1746605,0.625,0,có_th? c?m_th?y#1,
+a,1746995,0.625,0,?áng chú_ý#2,
+a,1747195,0.625,0,có_th? nh?n_th?y rõ#2,
+a,1747996,0.5,0,nh?n_bi?t#1,
+a,1747849,0.5,0,có_th?_quan_sát#1,
+a,1746292,0,0.75,mù_quáng#2,
+a,1748716,0.25,0.625,khó s?_th?y#3,
+a,1749320,0.625,0,hoàn_h?o#1,
+a,1750073,0.625,0,tr?n_v?n#13,
+a,1751201,0.75,0,lý_t??ng#1,
+a,1752167,0.125,0.75,không hoàn_h?o#1,
+a,1752953,0,0.5,l?i#1,
+a,1753249,0,0.625,b?t_th??ng#5,
+a,1753652,0.625,0,phân h?y_sinh_h?c#1,
+a,1754421,0,0.625,th??ng_tr?c#1 kéo_dài#1,
+a,1761871,0.5,0,???c_ch?p_nh?n#1,
+a,1775420,0,0.75,cách_âm#1,
+a,1774869,0.125,0.625,kháng#3,
+a,1782717,0,0.625,b?t_tín#3 vô_th?n#1,
+a,1782519,0.25,0.5,không tín_ng??ng#1,
+a,1784401,0,0.625,ngo?i_??o#1,
+a,1784830,0.625,0,d? an_?i#1,
+a,1785783,0.125,0.625,gay_g?t#1,
+a,1785180,0,0.675,không_??i_tr?i chung#1,
+a,1800764,0.625,0,??p#2,
+a,1800169,0,0.5,không thuy?t_ph?c#2 không_th? tin#2 không_th?_x?y_ra#2,
+a,1805889,0.125,0.75,không hài_lòng#1,
+a,1805730,0.5,0,vui_m?ng#1,
+a,1805801,0.5,0,hài_lòng#1,
+a,1805064,0,0.75,m?t_lòng#3,
+a,1804906,0,0.875,b?c_b?o#2,
+a,1806992,0.375,0.5,cau_mày#1,
+a,1807799,0.875,0,duyên_dáng#1,
+a,1808227,0.875,0,tuy?t_v?i#1 th?n kì#1,
+a,1807605,0.875,0,?áng ng??ng_m?#2,
+a,1807964,0.75,0,thú_v?#1,
+a,1808671,0.875,0,ng?t_ngào#4,
+a,1813081,0,0.75,thô#8,
+a,1813920,0.5,0,khôn_ngoan#2,
+a,1814085,0.125,0.625,th?t_sách#1,
+a,1817908,0.75,0.125,l?c_quan#2,
+a,1819692,0.625,0.125,d??ng#9,
+a,1821266,0.5,0,có_th?#1,
+a,1823574,0,0.75,không_th? th?c_hi?n#1 không kh?_thi#1,
+a,1824081,0,0.625,không_th? làm#1 th? hoàn tác#1 không_th? ??t ???c#1,
+a,1829652,0.5,0,cao_th?#1,
+a,1828836,0.5,0,công_su?t cao#2,
+a,1889819,0.125,0.375,t?_cao#1 t?_ph?#2 kiêu_ng?o#1,
+a,1842001,0,0.625,không_th? ?oán_tr??c#1,
+a,1842304,0.125,0.625,quái_??n#1 th?t_th??ng#1,
+a,1847672,0.125,0.625,v?ng_m?t#1,
+a,1848701,0.5,0,gây chú_ý#2,
+a,1871774,0.75,0,sinh_l?i#2 l?i_lãi#1,
+a,1880071,0.75,0,chính_?áng#2,
+a,1875227,0,0.5,nông_c?n#3,
+a,1883106,0.125,0.675,?i?m_báo#2 ?i?m g?#2,
+a,1880918,0.125,0.75,không thu?n_ti?n#1 không h?p l?#1 vô_duyên#1 không l?ch_s?#2 không ??ng_??n#1,
+a,1885866,0.625,0,b?o_v?#1,
+a,1883226,0,0.5,báo_tr??c#1 c?nh_báo#1,
+a,1884930,0,0.75,???c b?o_v?#1,
+a,1892433,0.5,0.125,quá t?_hào#1,
+a,1893510,0.75,0,khiêm_t?n#6 nhu_mì#1,
+a,1899360,0.25,0.625,thi?u th?n_tr?ng#1,
+a,1902313,0,0.625,không_???c giáo_d?c#2,
+a,1904596,0,0.625,vô_giáo_d?c#2,
+a,1905377,0,0.625,không trong_s?ch#2,
+a,1907103,0.125,0.875,không pha_tr?n#1 không b? tr?n_l?n#1,
+a,1911415,0,0.625,không ??_tiêu_chu?n#2,
+a,1913089,0,0.625,vô_k?_lu?t#1,
+a,1913642,0.125,0.5,b? bi?n_??i#2,
+a,1915745,0.625,0,??nh_l??ng ???c#1,
+a,1914521,0.5,0,ch?t_l??ng#1,
+a,1925242,0.5,0,ch?_tâm#1,
+a,1925708,0.75,0,minh_m?n#3,
+a,1926654,0,0.5,vô_lý#1,
+a,1935744,0.25,0.25,huy?n_tho?i#2 truy?n_thuy?t#1,
+a,1941999,0,0.75,không th?c_t?#1,
+a,1945010,0,0.5,không có c?_s?#1 không_th? bi?n_minh#1,
+a,1953467,0,0.75,ch?a tinh_ch?#1 ch?a qua ch?_bi?n#3,
+a,1953297,0.5,0.25,tinh#2,
+a,1956855,0,0.5,m?t#5,
+a,1982646,0.875,0,uy_tín#1,
+a,1982957,0.75,0,vinh_d?#1 quý#1,
+a,1984097,0.25,0.625,không x?ng_?áng#1,
+a,1987093,0,0.75,thù_??ch#3,
+a,1995288,0,0.625,xúc_ph?m#1,
+a,1997910,0,0.5,vô_trách_nhi?m#1,
+a,1999766,0,0.75,không ph?n_h?i#1,
+a,1998535,0.125,0.5,vô_công r?i ngh?#1,
+a,2001596,0,0.625,b?t_tr?#1 không_th? ki?m_ch?#1 không b? ki?m_soát#1 không b? ng?n_ch?n#1,
+a,2012504,0,0.5,b?t_kính#1,
+a,2014611,0,0.625,không_???c ?ánh_th?c#1,
+a,2015403,0,0.625,ph?n#2,
+a,2025885,0,0.625,thu?c khu ?_chu?t#1,
+a,2036934,0.75,0,th?ng_th?n#2 ??ng_??n#4,
+a,2038891,0.5,0.125,thép#1 ?anh_thép#1,
+a,2038994,0.5,0.25,m?p_m?p#3 c?ng_c?i#1,
+a,2040049,0,0.625,y?u_?u?i#1,
+a,2086879,0,0.5,ch?a m?#1,
+a,2085898,0,0.625,vô_nguyên_t?c#1,
+a,2086356,0,0.75,vô_l??ng_tâm#1,
+a,2093888,0.5,0.25,an_toàn#2,
+a,2094514,0.75,0,b?o_??m#1,
+a,2095037,0,0.75,run#3 b?p_bênh#3,
+a,2096213,0,0.5,tháo#1,
+a,2096923,0.625,0,b?o_hi?m#1,
+a,2100566,0.625,0,c?p_trên#6 h?ng_sang#1,
+a,2099651,0.5,0,chia_s?#1,
+a,2102796,0,0.5,vô_c?m#1,
+a,2103052,0.125,0.75,gây_mê#2,
+a,2104277,0.5,0,kích_thích#3 d? b? kích_thích#2,
+a,1001689,0.625,0,màu_m?#1,
+a,1002055,0.5,0,d?i_dào#1,
+a,1005675,0,0.625,ch?a hoàn_thành#1,
+a,1006967,0,0.625,b? c?n_ki?t#2,
+a,1007258,0,0.625,h?n#7,
+a,1007354,0.125,0.5,vô_h?n#1,
+a,1016874,0.5,0,phân_h?ch#1,
+a,1017161,0,0.75,phù_h?p v?i#3,
+a,1017738,0.75,0.25,không thích_h?p#2,
+a,1019283,0,0.75,tàn_t?t#1 khuy?t_t?t#1,
+a,1040544,0.125,0.5,dai_d?ng#2 ám_?nh#1,
+a,1041481,0,0.75,không_h? khoan_nh??ng#1,
+a,1048587,0.5,0,ng?u_nhiên#2,
+a,1050088,0,0.75,??nh_m?nh#3,
+a,1052248,0.5,0,th?m#1,
+a,1053634,0,0.75,mùi_hôi_th?i#2,
+a,1053915,0,0.875,m?c#2,
+a,1054367,0,0.75,hôi#1,
+a,1054630,0,0.7,mùi_th?i#1,
+a,1054630,0,0.7,th?i#1,
+a,1056802,0.75,0,mùi d?_ch?u#1,
+a,1058756,0,0.625,ràng_bu?c#3,
+a,1060785,0.125,0.625,không c?_??nh#1,
+a,1063958,0,0.625,không b? c?n_tr?#2,
+a,1064167,0.5,0,không h?n_ch?#2,
+a,1064286,0,0.75,không t?_do#2,
+a,1067193,0,0.625,không th??ng_xuyên#1,
+a,1069283,0,0.75,h?_h?ng#2,
+a,1071198,0.625,0,t??i#5,
+a,1075178,0.625,0,vui_tính#1,
+a,1076435,0.625,0,láng_gi?ng#1,
+a,1076793,0,0.75,không thân_thi?n#2,
+a,1077263,0.125,0.625,l?nh#3,
+a,1078673,0,0.5,tê_bu?t#1,
+a,1080197,0,0.5,tan#2,
+a,1080297,0.5,0,hi?u_qu?#1,
+a,1087093,0,0.5,tr?ng#8,
+a,1087977,0,0.5,tr?ng#2,
+a,1114658,0.5,0,hào_hùng#2,
+a,1115349,0.636,0,chính_hãng#1,
+a,1115635,0.6,0.4,th?c_s?#1 xác_th?c#2,
+a,1116380,0,0.556,gi?#1,
+a,1117226,0,0.75,gi?_m?o#1,
+a,1120925,0.625,0.25,vinh_quang#1,
+a,1121238,0.625,0.125,sáng#6,
+a,1121757,0.625,0,siêu#1,
+a,1126291,0,0.875,không_k?_xi?t#2,
+a,1127147,0,0.875,s?_hãi#,
+a,1127302,0,0.625,khó_kh?n#8,
+a,1127661,0,0.875,c?c_x?u#1,
+a,1127782,0,0.75,b?c_mùi_hôi_th?i#2,
+a,1129533,0,0.875,không_bi?t x?u_h?#1,
+a,1130261,0.625,0,thánh_thi?n#1,
+a,1130733,0.625,0,ti?t_ki?m#1,
+a,1130932,0.75,0,trong tr?ng#7,
+a,1131454,0,0.875,dã_man#1,
+a,1131935,0,0.75,nham_hi?m#2,
+a,1132366,0.333,0.667,tham_nh?ng#1,
+a,1132515,0.125,0.875,x?u_xa#2,
+a,1137378,0.25,0.625,?_r?#1,
+a,1137994,0,0.625,h?n_d?i#1,
+a,1140188,0.125,0.5,y?u_?i?u#1,
+a,1161233,0,0.875,vu_kh?ng bôi_nh?#1,
+a,1161635,0,0.75,gây tác_h?i#1 th?m_h?a#1,
+a,1162633,0,0.625,tinh_ngh?ch#2,
+a,1167540,0.625,0.125,ph?c_h?i#2,
+a,1170136,0.5,0,h?_s?t#1,
+a,1182747,0,0.625,khó_tiêu#1,
+a,1182974,0,0.5,kiêu_c?ng#1,
+a,1248713,0.625,0.25,s?t_s?ng#2,
+a,1262611,0,0.75,vô_nhân_??o#1,
+a,1271700,0,0.75,thong_th?#1,
+a,1272176,0,0.625,nhàn_nhã#1,
+a,1268002,0.625,0,khôi_hài#1,
+a,1268194,0.5,0,dí_d?m#1,
+a,1273316,0,0.625,khó n?m_b?t#1,
+a,2105898,0,0.625,tr?#2,
+a,2107634,0,0.5,??n_??n#10,
+a,2108198,0,0.5,nh?y#1,
+a,2108547,0,0.5,tê_tái#1,
+a,2114190,0,0.5,b? áp xe#1,
+a,2114483,0.25,0.5,làm nhi?m#1,
+a,2115034,0,0.625,th?i_r?a#1 th?i_nát#1,
+a,2115324,0.75,0,kh?_trùng#1,
+a,2116473,0.625,0,không b? nhi?m_b?nh#1,
+a,2116618,0.625,0,vô_trùng#1,
+a,2120458,0,0.75,phù_phi?m#1,
+a,2121859,0.625,0,vui_t??i#1,
+a,2123007,0.125,0.5,nhõng_nh?o#1,
+a,2131072,0.625,0,g?i_c?m#1,
+a,2135138,0.5,0.125,lãnh_c?m#3,
+a,2138659,0.75,0,cân_??i#1,
+a,2152985,0,0.75,??c_quy?n#1 duy_nh?t#1,
+a,2164050,0.5,0,tác_d?ng#3,
+a,2175980,0.5,0.375,không ph?c_t?p#2 không bi?n_ch?ng#1,
+a,2179279,0.625,0,chân_thành#1,
+a,2226162,0.625,0,thành_th?o#1 t?p#1 chuyên_gia#1 chuyên_nghi?p#1,
+a,2227344,0.75,0,tinh_t?#2,
+a,2233799,0.5,0,siêu_m?n#1,
+a,2233927,0,0.5,khói#1,
+a,2234673,0.5,0,khói thu?c#1,
+a,2272305,0.5,0,c?_tin#2,
+a,2275412,0.75,0,kiên_c?#5,
+a,2277182,0,0.5,không bão hòa#1,
+a,2278939,0.5,0,tinh_th?n#1,
+a,2280821,0.5,0.125,lanh_l?i#1,
+a,2282171,0.5,0.125,nh?n_tâm#2,
+a,2292797,0.5,0,rung_rinh#2 lo?ng_cho?ng#1 run_r?y#1 ?p_?p#1,
+a,1245889,0.125,0.5,??i_??u#1,
+a,1246579,0.875,0,thân_thi?n#1,
+a,2786473,0,0.5,d?i#1,
+a,3043482,0,0.75,s?_ch?ng_??i Do Thái#1 ch?ng Do Thái#1,
+a,3090612,0,0.5,suy_nh??c th?n_kinh#1,
+a,3105742,0,0.5,s?t#1,
+a,3062754,0.75,0,công_t??c#1,
+a,2976525,0,0.5,th?n_kinh#1,
+a,2987017,0.5,0,gây ??t_bi?n#1,
+a,2799797,0,0.5,lác_m?t#1,
+a,2783646,0,0.5,ti?n ung_th?#1,
+a,2776576,0.625,0,th?c_ bào#1,
+v,1826498,0.875,0,thích#1,
+v,1824736,0.125,0,??c#2 quan_tâm#3,
+v,2751055,0,0.625,giao ?i?m#2,
+v,2748627,0.875,0,t?t#31,
+v,2740204,0.125,0.625,do d?#2 ng?p_ng?ng#1,
+v,2500619,0.125,0.625,n?n_nhân#2 n?n_nhân#2,
+v,2500775,0,0.5,tai_h?a#1,
+v,2507736,0,0.875,r?c_r?i#2 s?_b?t_ti?n#1 b?t ti?n#1 xúc ph?m#1 phi?n#3,
+v,2508078,0,0.5,x?u_h?#2,
+v,2513460,0,0.5,không ?a#1,
+v,2513989,0,0.75,sai#1,
+v,2513742,0,0.625,??nh_ki?n#1,
+r,42614,0,0.625,bu?n_bã#1,
+r,42769,0,0.875,không may_m?n#1 ?áng_ti?c#1 than_ôi#1,
+v,2483000,0.5,0,ám_sát#1,
+v,2350175,0.5,0,thoát#1,
+v,2321391,0,0.5,c??p#1,
+v,2321757,0,0.5,?n_c?p#1,
+v,2263027,0.625,0,t?ng#1 hi?n#1,
+v,2129709,0.75,0,xem#17,
+v,2123424,0,0.875,b?t_r?t#1 châm_chích#4,
+v,2122983,0,0.75,gai#2,
+v,2109404,0.5,0,ch?u ??ng#3,
+v,1829747,0.75,0.125,t?a sáng#9 b?ng sáng#6 r?ng r?#6,
+v,2124332,0,0.875,mùi#3,
+v,2164694,0.625,0,ng??ng_m?#2,
+v,2198234,0.5,0.125,d??ng_nh?#4,
+v,2291135,0.875,0,phù_h?p#6,
+v,2350878,0,0.5,giá quá th?p#1 ??#3,
+v,2422026,0.5,0,t?_do#6,
+v,2537407,0,0.5,bán#8 ph?n_b?i#2,
+v,2679012,0.625,0,h?i_?? ?i?u_ki?n#1,
+v,2697610,0.5,0.25,hóa l?n#1,
+v,2726385,0,0.5,??ng yên#1,
+v,2593001,0,0.875,th?_?o?n#1,
+v,2580678,0,0.5,??c#1,
+v,2579447,0,0.625,b?i_ho?i#1 l?t_?? thô_t?c#1 g?i l?n#1 suy ??i#1 h?#1 nh?c#1,
+v,2588122,0,0.5,ch?ng_??#1,
+v,2552829,0.625,0,ph?c_h?i ch?c_n?ng#3,
+v,2496498,0.5,0,gi?i_phóng#1 gi?i tr?#2,
+v,2343595,0,0.5,hy_sinh#1 cho#16,
+v,2301000,0,0.5,tr?_giá cao h?n#1,
+v,1820077,0,0.5,b?i#1,
+v,1808769,0.25,0.125,??y_lùi#2,
+v,1811441,0.625,0.25,hy_v?ng#2,
+v,1794969,0,0.5,n?i th?ng_kh?#1,
+v,1795888,0,0.75,gi?n_d?#1,
+r,43436,0.625,0,do_?ó#3,
+a,17529532,0,0.6,không ch? có l?i#1,
+a,1070177,0.125,0.5,còn nh?#1,
+a,1070171,0.5,0.125,m?_m?ng#1,
+a,17529533,0,0.6,không_ph?i ch? có l?i#1,
+a,17529534,0,0.5,không_t?p_trung#1,
+a,25033055,0,0.625,sáo_r?ng#1,
+v,18247365,0.125,0,ch? quan_tâm#3,
+a,1633155,0.125,0.5,kém ??n_?âu#2,
+a,10692833,0,0.6,không_???c hay#4,
+a,10692834,0,0.5,không_???c bóng_b?y#2,
+a,10692835,0.5,0,không có ki?u nh?n_th?c sáo_r?ng#4,
+a,10692836,0,0.5,không t?o ???c c?m h?ng#2,
+a,10692837,0,0.5,không m?t_chút sáng_t?o#2,
+a,788511,0,0.625,?áng báo_??ng#1,
+a,788512,0.5,0,không t?#1,
+a,788513,0.125,0.5,h?i x?a_c?#1,
+v,788514,0.125,0.6,không_???c nh?_v?y#1,
+v,788525,0.125,0.5,ch?_trích#1,
+v,788526,0.6,0,nhi?u ?i?u_t?t_??p#1,
+v,788527,0,0.6,c?ng không_th? c?i_thi?n ???c#1,
+v,788528,0.5,0.125,ch?a_ch?c kh?_n?ng#1,
+v,788529,0,0.5,không mang l?i c?m_h?ng#1,
+a,788530,0.5,0,chân_th?c h?n#1,
+a,788531,0.125,0.5,rùng_mình#1,
+a,788532,0.5,0.125,không dày_c?p#1,
+a,788533,0,0.5,th?t khó l?m thay#1,
+v,788534,0.125,0.5,xì_xào#1,
+v,788535,0,0.5,soi_mói#1,
+v,788536,0.125,0.5,không kh?i d?y#1,
+v,788521,0,0.5,không hào_h?ng l?m#1,
+v,788537,0,0.5,không_th? làm_gì h?n ???c#1,
+v,788539,0.125,0.6,r?t khó ch?p_nh?n#1,
+a,788540,0.125,0.5,kém h?p_d?n#1,
+a,788541,0,0.5,khô_khan#1,
+a,788542,0.125,0.5,ngây_ngô ??n v?y#1,
+v,788543,0,0.6,hành_h?#1,
+v,788544,0.125,0.5,th?y s?#1,
+v,788545,0.125,0.5,vã_m?_hôi#1,
+v,788546,0,0.75,b?o_hành#1,
+v,788547,0,0.6,t?n_th??ng#1,
+v,788548,0.125,0.5,canh_cánh#1,
+v,788550,0,0.875,c?c k? ph?n_n?#1,
+v,788551,0.125,0.5,chia_bu?n#1,
+v,788552,0.5,0.125,coi_th??ng#1,
+v,788553,0.5,0,v??t_qua m?i th?_thách#1,
+v,788554,0.5,0,hoàn_thành#1,
+v,788555,0.5,0,?ng h?#1,
+v,788556,0.875,0.5,h?t s?c mình#1,
+v,788558,0.5,0,gi? s?c_kho?#1,
+v,788559,0.625,0,nh? mong_mu?n#1,
+v,788560,0.5,0,t?o c?_h?i#1,
+v,788561,0.125,0.5,không_bao_gi?#1,
+v,788562,0,0.6,khó_kh?n ??n_th?#1,
+v,788563,0.5,0,t?_thi?n#1,
+a,788564,0.125,0.5,ghê nh?#1,
+a,788565,0.125,0,bình_th??ng mà#1,
+v,788567,0.5,0.125,t?o c?n s?t#1,
+v,788568,0.125,0.5,không_ph?i d?#1,
+v,788569,0.5,0,t?ng_lên#1,
+v,788570,0.5,0,hàng_hi?u#1,
+a,788571,0.5,0.125,chuy?n nh?#1,
+n,788572,0.125,0.5,giá quá cao#1,
+n,788573,0.5,0,hi?u_n?ng#1,
+a,788574,0.125,0.5,m?i gì ?âu#1,
+n,788575,0,0.5,giá_??t l?m#1,
+r,788576,0.5,0,không thèm#1,
+v,788577,0.5,0,ch?n_ch?nh và ch?m_d?t#1,
+a,788578,0.125,0.5,choai_choai#1,
+v,788579,0.5,0,??ng bu?n#1,
+v,788580,0.6,0,th?u_hi?u#1,
+v,788581,0.875,0,ph?n_??u#1,
+v,788582,0,0.5,??c_khoét c?a_công#1,
+v,788583,0,0.675,giàu lên vì tham_nh?ng#1,
+v,788584,0.5,0.125,??ng quá quan_tâm#1,
+v,788585,0,0.675,ghét cay ghét_??ng#1,
+v,788586,0,0.5,ch?ng vi?c_gì ph?i bu?n#1,
+v,788587,0,0.5,tính_toán#1,
+a,788588,0.5,0.125,tr?c_phú#1,
+a,788589,0.5,0.125,th??ng_l?u#1,
+n,788590,0.675,0,nhà_giàu#1,
+a,788591,0,0.5,thi?n_c?n#1,
+a,788592,0.125,0.5,c?_h?#1,
+a,788593,0,0.5,khinh_ng??i#1,
+a,788594,0,0.675,kênh_ki?u#1,
+a,788595,0.125,0.5,?y m?#1,
+a,7031099,0,0.625,nhàm_chán#1,
+a,11217577,0.625,0,gi?i_giang#1,
+a,11217578,0,0.75,quá th?t_v?ng#1,
+a,11217579,0,0.875,không_th?_nào ch?p_nh?n ???c#1,
+a,11217580,0.625,0,chân#1,
+a,11217581,0.625,0,thi?n#1,
+a,11217582,0.625,0,m?#1,
+a,11217583,0,0.5,l?ch_l?c#1,
+a,11217584,0,0.5,bàng_hoàng#1,
+a,11217585,0,0.875,?áng bu?n#1,
+a,11217587,0.625,0,lôi_cu?n h?n#1,
+a,11217588,0.875,0,uyên_bác#1,
+a,11217589,0.5,0,hùng_bi?n#1,
+a,1937992,0,0.625,th?y xót_xa#1,
+a,1937993,0,0.875,?au_lòng ??n th?_nào#1,
+a,1937994,0,0.625,th?t kh?ng_khi?p#1,
+a,1937995,0,0.5,choáng_váng#1,
+a,1937996,0.125,0.5,m?ng_manh#1,
+a,1937997,0,0.625,?ích_?áng#1,
+a,1937998,0,0.875,ác h?n_c? thú#1,
+a,1937999,0,0.625,t?n_th?t n?ng_n?#1,
+a,1937920,0,0.625,xót_xa ?au_lòng#1,
+a,1937921,0,0.875,không_còn nhân_tính#1,
+a,1937922,0,0.625,th?t t?c ch?t ?i ?u?c#1,
+a,1937923,0,0.625,b?c_xúc#1,
+a,1937924,0,0.875,vô nhân_tính#1,
+a,1937925,0,0.875,vô cùng tàn_ác#1,
+a,1937926,0,0.625,không có tình_th??ng#1,
+a,1937927,0,0.75,ghét#1,
+a,1937928,0.875,0,yêu#1,
+a,1937929,0.875,0,thích_thú #1,
+v,1937930,0,0.5,a_dua#1,
+a,1937931,0,0.75,ác_hi?m#1,
+a,1937932,0,0.5,ác_kh?u#1,
+a,1937933,0,0.5,ác_li?t#1,
+v,1937934,0.5,0,ái_m?#1,
+v,1937935,0,0.6,ám_sát#1,
+v,1937936,0.125,0.5,an_ph?n#1,
+a,1937937,0,0.5,ám_mu?i#1,
+v,1937938,0.75,0,ái_ân#1,
+n,1937939,0.25,0.5,?o_t??ng#1,
+v,1937940,0,0.5,?n_??#1,
+v,1937941,0,0.5,?n_hi?p#,
+v,1937942,0.5,0,?n_khách#1,
+v,1937943,0.125,0.5,?n_thua#1,
+a,1937944,0,0.5,âm_th?m#1,
+a,1937945,0.5,0,?m_êm #1,
+a,1937946,0.125,0.5,?m_??t#1,
+a,1937947,0.25,0.5,ân_h?n#1,
+n,1937948,0.5,0,ân_ngh?a#1,
+a,1937949,0.5,0.25,?n_n?p#1,
+n,1937950,0.5,0.25,?n_ý#1,
+v,1937951,0.25,0.5,?p_úng#1,
+a,1937952,0,0.5,b?c_?ãi#1,
+v,1937953,0.25,0.5,bãi_nhi?m#1,
+v,1937954,0.25,0.25,bãi_b?#1,
+v,1937955,0.125,0.5,bán_tháo#1,
+v,1937956,0.25,0.5,bàng_quan#1,
+v,1937957,0.5,0.25,b?o_lãnh#1,
+a,1937958,0,0.25,b?n_b?t#1,
+a,1937959,0.125,0.5,báo_oán#1,
+v,1937960,0.125,0.5,ch?n_ch?#1,
+a,1937961,0.75,0,chân_tình#1,
+a,1937962,0,0.25,ch?ng_ch?t#1,
+v,1937963,0.25,0.5,bày_v?#1,
+v,1937964,0,0.5,châm_ch?c#1,
+r,1937965,0.125,0.5,b?p_bõm#1,
+a,1937966,0.25,0.5,ch?m_ch?m#1,
+a,1937967,0,0.5,be_bét#1,
+a,1937968,0.25,0.5,c?p_bách#1,
+a,1937969,0.5,0,c?t_nh?c#1,
+v,1937970,0.675,0,ch?m_chút#1,
+v,1937971,0,0.5,ch?p_ch?n#1,
+a,1937972,0.5,0,hay#1,
+a,1937973,0.6,0,tuy?t#1,
+a,1937974,0,0.6,l??i#1,
+a,1937975,0.75,0,ch?m#1,
+a,1937976,0.5,0,nghiêm_túc#1,
+v,1937977,0.5,0,th?_phào#1,
+a,1937977,0.6,0,nh?_nhõm#1,
+a,1937978,0.5,0,t?i_?u#1,
+a,1937979,0,0.6,tiêu_c?c#1,
+v,1937980,0.5,0,c?i_ti?n#1,
+a,1937981,0.5,0,xinh#1,
+a,1937982,0.6,0,xinh_x?n#1,
+a,1937983,0.125,0.5,kh?#1,
+a,1937984,0,0.75,ngu#1,
+a,1937986,0.75,0,gi?i#1,
+a,svx1937981,0,0.5,xâ?u#1 xâ?u_xi?#1,
