@@ -21,11 +21,11 @@ except Exception:
     HAS_WORDCLOUD = False
 
 # ==================================================
-# 1. CẤU HÌNH TRANG (Luôn phải ở dòng đầu tiên sau imports)
+# 1. CẤU HÌNH TRANG
 # ==================================================
 st.set_page_config(
     page_title="Topic 5 – Sentiment Analysis | UEF Project",
-    page_icon="🎓",
+    page_icon="https://th.bing.com/th/id/OIP.3KIMg6F7vEfSAFFvmxcDxgHaHa?w=182&h=182&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3", 
     layout="wide",
     initial_sidebar_state="expanded"
 )
